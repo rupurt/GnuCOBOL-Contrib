@@ -19,6 +19,12 @@ samples/games/star_trek/ctrek.cob -text
 samples/games/wumpus/dodecahedron.jpeg -text svneol=unset#image/jpeg
 samples/games/wumpus/readme.txt -text
 samples/games/wumpus/wumpus.cob -text
+tools/cobxref/COPYING -text
+tools/cobxref/Changelog -text
+tools/cobxref/cobxref -text
+tools/cobxref/cobxref.cbl -text
+tools/cobxref/comp-cobxrefc.sh eol=lf
+tools/cobxref/readme -text
 tools/dectrans/Changelog -text
 tools/dectrans/TODO -text
 tools/dectrans/dectrans -text
