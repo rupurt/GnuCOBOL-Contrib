@@ -21,6 +21,7 @@ samples/games/wumpus/readme.txt -text
 samples/games/wumpus/wumpus.cob -text
 tools/cobxref/COPYING -text
 tools/cobxref/Changelog -text
+tools/cobxref/TODO -text
 tools/cobxref/cobxref -text
 tools/cobxref/cobxref.cbl -text
 tools/cobxref/comp-cobxrefc.sh eol=lf
