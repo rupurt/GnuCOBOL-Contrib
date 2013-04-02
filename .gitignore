@@ -1,2 +1,4 @@
+tools/ocic-gui/*.suo
+tools/ocic-gui/*.userprefs
 tools/ocic-gui/OCiC-Mono/bin
 tools/ocic-gui/OCiC-Mono/obj

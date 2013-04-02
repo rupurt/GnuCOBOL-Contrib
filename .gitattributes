@@ -1,8 +1,6 @@
 * text=auto !eol
 /README -text
 tools/ocic-gui/OCiC-Mono.sln -text
-tools/ocic-gui/OCiC-Mono.suo -text
-tools/ocic-gui/OCiC-Mono.userprefs -text
 tools/ocic-gui/OCiC-Mono/AssemblyInfo.cs -text
 tools/ocic-gui/OCiC-Mono/Libraries/MessageBox.cs -text
 tools/ocic-gui/OCiC-Mono/Libraries/Util.cs -text
