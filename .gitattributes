@@ -1,5 +1,8 @@
 * text=auto !eol
 /README -text
+games/wumpus/dodecahedron.jpeg -text svneol=unset#image/jpeg
+games/wumpus/readme.txt -text
+games/wumpus/wumpus.cob -text
 tools/ocic-gui/OCiC-Mono.sln -text
 tools/ocic-gui/OCiC-Mono/AssemblyInfo.cs -text
 tools/ocic-gui/OCiC-Mono/Libraries/MessageBox.cs -text
