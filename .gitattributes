@@ -1,5 +1,6 @@
 * text=auto !eol
 /README -text
+samples/games/star_trek/ctrek.cob -text
 samples/games/wumpus/dodecahedron.jpeg -text svneol=unset#image/jpeg
 samples/games/wumpus/readme.txt -text
 samples/games/wumpus/wumpus.cob -text
