@@ -7,6 +7,14 @@ samples/games/star_trek/ctrek.cob -text
 samples/games/wumpus/dodecahedron.jpeg -text svneol=unset#image/jpeg
 samples/games/wumpus/readme.txt -text
 samples/games/wumpus/wumpus.cob -text
+tools/dectrans/Changelog -text
+tools/dectrans/TODO -text
+tools/dectrans/dectrans -text
+tools/dectrans/dectrans.cbl -text
+tools/dectrans/dectrans.pdf -text
+tools/dectrans/documentation[!!-~]license.odt -text
+tools/dectrans/examples.zip -text
+tools/dectrans/readme -text
 tools/ocic-gui/OCiC-Mono.sln -text
 tools/ocic-gui/OCiC-Mono/AssemblyInfo.cs -text
 tools/ocic-gui/OCiC-Mono/Libraries/MessageBox.cs -text
