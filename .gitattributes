@@ -1,6 +1,7 @@
 * text=auto !eol
 /README -text
-samples/bigworld.cob -text
+samples/HelloWorld/bigworld.cob -text
+samples/HelloWorld/hello.cob -text
 samples/boxdraw/boxdraw.cob -text
 samples/cobdes/cobdes.cob -text
 samples/cobdes/testdes.cob -text
@@ -8,7 +9,6 @@ samples/games/star_trek/ctrek.cob -text
 samples/games/wumpus/dodecahedron.jpeg -text svneol=unset#image/jpeg
 samples/games/wumpus/readme.txt -text
 samples/games/wumpus/wumpus.cob -text
-samples/hello.cob -text
 tools/dectrans/Changelog -text
 tools/dectrans/TODO -text
 tools/dectrans/dectrans -text
