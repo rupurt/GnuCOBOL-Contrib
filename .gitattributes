@@ -1,5 +1,7 @@
 * text=auto !eol
 /README -text
+samples/HelloWorld/Makefile -text
+samples/HelloWorld/README -text
 samples/HelloWorld/bigworld.cob -text
 samples/HelloWorld/hello.cob -text
 samples/boxdraw/boxdraw.cob -text
