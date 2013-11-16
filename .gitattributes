@@ -1,5 +1,12 @@
 * text=auto !eol
 /README -text
+esql/esqlOC/esqlOC.cpp -text
+esql/esqlOC/esqlOC.vcproj -text
+esql/esqlOC/vcache.cpp -text
+esql/esqlOC/vcache.h -text
+esql/ocsql/ocsql.vcproj -text
+esql/ocsql/ocsql2.cpp -text
+esql/open-cobol-sql.sln -text
 samples/HelloWorld/Makefile -text
 samples/HelloWorld/README -text
 samples/HelloWorld/bigworld.cob -text
