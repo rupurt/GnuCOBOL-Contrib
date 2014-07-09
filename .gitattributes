@@ -21,15 +21,14 @@ samples/games/wumpus/readme.txt -text
 samples/games/wumpus/wumpus.cob -text
 tools/cobxref/COPYING -text
 tools/cobxref/Changelog -text
+tools/cobxref/README -text
 tools/cobxref/TODO -text
-tools/cobxref/cobxref -text
 tools/cobxref/cobxref.cbl -text
 tools/cobxref/comp-cobxref.sh eol=lf
 tools/cobxref/comp-cobxrefc.sh eol=lf
 tools/cobxref/get-reserved-lists.cbl -text
 tools/cobxref/lprr.sh eol=lf
 tools/cobxref/print-xref.sh eol=lf
-tools/cobxref/readme -text
 tools/dectrans/Changelog -text
 tools/dectrans/TODO -text
 tools/dectrans/dectrans -text
