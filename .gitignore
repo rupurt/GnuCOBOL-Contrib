@@ -10,6 +10,7 @@ samples/*.obj
 samples/*.pdb
 samples/*.sbr
 samples/*.so
+samples/altkey/altkey
 samples/boxdraw/*.c*
 samples/boxdraw/*.dll
 samples/boxdraw/*.exe
