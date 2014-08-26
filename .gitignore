@@ -22,6 +22,7 @@ samples/boxdraw/*.obj
 samples/boxdraw/*.pdb
 samples/boxdraw/*.sbr
 samples/boxdraw/*.so
+samples/boxdraw/boxdraw
 samples/cobdes/*.c*
 samples/cobdes/*.dll
 samples/cobdes/*.exe
