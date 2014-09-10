@@ -131,6 +131,7 @@ tools/cobweb/cobweb-gtk/cobweb-gtk.cob -text
 tools/cobweb/cobweb-gtk/cobweb-gtk.dot -text
 tools/cobweb/cobweb-gtk/cobweb-gui-sample-data.txt -text
 tools/cobweb/cobweb-gtk/cobweb-gui.cob -text
+tools/cobweb/cobweb-gtk/cobweb-gui.dot -text
 tools/cobweb/cobweb-gtk/cobweb-periodic.cob -text
 tools/cobweb/cobweb-gtk/cobweb-sample.xml -text svneol=unset#application/xml
 tools/cobweb/cobweb-gtk/elements.txt -text
