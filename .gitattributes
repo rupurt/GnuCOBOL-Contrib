@@ -27,6 +27,7 @@ tools/cobweb/cobodoc/COPYING -text
 tools/cobweb/cobodoc/ChangeLog -text
 tools/cobweb/cobodoc/Contributions/robodoc.kaptn -text
 tools/cobweb/cobodoc/Contributions/robodoc2pod.pl -text
+tools/cobweb/cobodoc/Docs/cobodoc.rc -text
 tools/cobweb/cobodoc/Docs/makefile.am -text
 tools/cobweb/cobodoc/Docs/makefile.in -text
 tools/cobweb/cobodoc/Docs/manual.css -text
