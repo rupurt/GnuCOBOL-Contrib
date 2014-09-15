@@ -128,6 +128,7 @@ tools/cobweb/cobweb-gtk/NEWS -text
 tools/cobweb/cobweb-gtk/README -text
 tools/cobweb/cobweb-gtk/blue66.png -text svneol=unset#image/png
 tools/cobweb/cobweb-gtk/cobodoc.css -text
+tools/cobweb/cobweb-gtk/cobweb-gtk-widgets.cpy -text
 tools/cobweb/cobweb-gtk/cobweb-gtk.cob -text
 tools/cobweb/cobweb-gtk/cobweb-gtk.dot -text
 tools/cobweb/cobweb-gtk/cobweb-gui-sample-data.txt -text
