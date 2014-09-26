@@ -22,6 +22,7 @@ samples/games/star_trek/ctrek.cob -text
 samples/games/wumpus/dodecahedron.jpeg -text svneol=unset#image/jpeg
 samples/games/wumpus/readme.txt -text
 samples/games/wumpus/wumpus.cob -text
+samples/prime_machine/prime_machine.cob -text
 tools/cobweb/cobodoc/AUTHORS -text
 tools/cobweb/cobodoc/COPYING -text
 tools/cobweb/cobodoc/ChangeLog -text
