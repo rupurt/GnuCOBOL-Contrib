@@ -79,6 +79,7 @@ samples/prime_machine/*.exp
 samples/prime_machine/*.i
 samples/prime_machine/*.ilk
 samples/prime_machine/*.lib
+samples/prime_machine/*.lst
 samples/prime_machine/*.manifest
 samples/prime_machine/*.obj
 samples/prime_machine/*.pdb
