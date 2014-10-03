@@ -138,6 +138,7 @@ tools/cobweb/cobweb-gtk/cobweb-gui.cob -text
 tools/cobweb/cobweb-gtk/cobweb-gui.dot -text
 tools/cobweb/cobweb-gtk/cobweb-periodic.cob -text
 tools/cobweb/cobweb-gtk/cobweb-sample.xml -text svneol=unset#application/xml
+tools/cobweb/cobweb-gtk/colours-tui.cob -text
 tools/cobweb/cobweb-gtk/elements.txt -text
 tools/cobweb/cobweb-gtk/robocob.rc -text
 tools/cobweb/cobweb-gtk/support-cobweb.cob -text
