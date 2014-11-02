@@ -37,6 +37,9 @@ samples/games/wumpus/readme.txt -text
 samples/games/wumpus/wumpus.cob -text
 samples/prime_machine/prime_machine.cob -text
 samples/prime_machine/prime_machine2.cob -text
+samples/week-day/README -text
+samples/week-day/week-day-85.cob -text
+samples/week-day/week-day.cob -text
 tools/cobweb/cobodoc/AUTHORS -text
 tools/cobweb/cobodoc/COPYING -text
 tools/cobweb/cobodoc/ChangeLog -text
