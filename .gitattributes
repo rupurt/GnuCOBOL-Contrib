@@ -172,11 +172,8 @@ tools/cobxref/cobxref-1.01.14.zip -text
 tools/cobxref/cobxref.cbl -text
 tools/cobxref/cobxref.lst -text
 tools/cobxref/comp-cobxref.sh eol=lf
-tools/cobxref/comp-cobxrefc.sh eol=lf
 tools/cobxref/get-reserved-lists.cbl -text
 tools/cobxref/get-reserved-lists.lst -text
-tools/cobxref/lprr.sh eol=lf
-tools/cobxref/print-xref.sh eol=lf
 tools/dectrans/Changelog -text
 tools/dectrans/TODO -text
 tools/dectrans/dectrans -text
