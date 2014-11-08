@@ -168,7 +168,7 @@ tools/cobxref/COPYING -text
 tools/cobxref/Changelog -text
 tools/cobxref/README -text
 tools/cobxref/TODO -text
-tools/cobxref/cobxref-1.01.14.zip -text
+tools/cobxref/cobxref-1.01.15.zip -text
 tools/cobxref/cobxref.cbl -text
 tools/cobxref/cobxref.lst -text
 tools/cobxref/comp-cobxref.sh eol=lf
