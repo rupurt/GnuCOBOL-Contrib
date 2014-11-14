@@ -1,4 +1,10 @@
 * text=auto !eol
+GNU-Manuals/GNU[!!-~]COBOL[!!-~]2.1[!!-~]23NOV2013[!!-~]Programmers[!!-~]Guide[!!-~](A4).pdf -text
+GNU-Manuals/GNU[!!-~]COBOL[!!-~]2.1[!!-~]23NOV2013[!!-~]Programmers[!!-~]Guide[!!-~](US[!!-~]Letter).pdf -text
+GNU-Manuals/GNU[!!-~]COBOL[!!-~]2.1[!!-~]23NOV2013[!!-~]Quick[!!-~]Reference[!!-~](A4).pdf -text
+GNU-Manuals/GNU[!!-~]COBOL[!!-~]2.1[!!-~]23NOV2013[!!-~]Quick[!!-~]Reference[!!-~](US[!!-~]Letter).pdf -text
+GNU-Manuals/GNU[!!-~]COBOL[!!-~]2.1[!!-~]23NOV2013[!!-~]Sample[!!-~]Programs[!!-~](A4).pdf -text
+GNU-Manuals/GNU[!!-~]COBOL[!!-~]2.1[!!-~]23NOV2013[!!-~]Sample[!!-~]Programs[!!-~](US[!!-~]Letter).pdf -text
 /README -text
 esql/esqlOC/esqlOC.cpp -text
 esql/esqlOC/esqlOC.vcproj -text
