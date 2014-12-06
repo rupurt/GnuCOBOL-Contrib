@@ -228,6 +228,7 @@ tools/ocic-gui/OCiC-Mono/gtk-gui/gui.stetic -text
 tools/ocic-gui/OCiC-Mono/oc-icon.png -text
 tools/ocic-gui/oc-icon.png -text
 tools/printcbl/Changelog -text
+tools/printcbl/README -text
 tools/printcbl/printcbl.cbl -text
 tools/printcbl/printcbl.pdf -text
 tools/printcbl/testpak1.zip -text
