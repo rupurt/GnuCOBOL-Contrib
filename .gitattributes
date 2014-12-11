@@ -73,6 +73,9 @@ samples/worldcities/worldcities7.cbl -text
 samples/worldcities/worldcities7.sh -text
 samples/worldcities/worldcities8.cbl -text
 samples/worldcities/worldcities8.sh -text
+tools/OCic/FileStat-Msgs.cpy -text
+tools/OCic/OCic.cbl -text
+tools/OCic/OpenCOBOL-1.1-06FEB2009-OCic.pdf -text
 tools/changeformat/COPYING -text
 tools/changeformat/README -text
 tools/changeformat/changeformat.cbl -text
