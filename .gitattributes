@@ -92,7 +92,12 @@ tools/cobjapi/examples/digits/digits.cob -text
 tools/cobjapi/examples/digits/screenshots/digits.jpg -text
 tools/cobjapi/examples/digits/win_compile_digits.bat -text
 tools/cobjapi/examples/drawables/readme.txt -text
-tools/cobjapi/examples/imageviewer/readme.txt -text
+tools/cobjapi/examples/imageviewer/Makefile -text
+tools/cobjapi/examples/imageviewer/cobjapi.cpy -text
+tools/cobjapi/examples/imageviewer/cobjapifn.cpy -text
+tools/cobjapi/examples/imageviewer/imageviewer.cob -text
+tools/cobjapi/examples/imageviewer/screenshots/imageviewer.jpg -text
+tools/cobjapi/examples/imageviewer/win_compile_imageviewer.bat -text
 tools/cobjapi/examples/mandelbrot/readme.txt -text
 tools/cobjapi/examples/texteditor/Makefile -text
 tools/cobjapi/examples/texteditor/cobjapi.cpy -text
