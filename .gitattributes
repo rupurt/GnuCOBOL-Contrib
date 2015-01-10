@@ -73,39 +73,31 @@ samples/worldcities/worldcities7.cbl -text
 samples/worldcities/worldcities7.sh -text
 samples/worldcities/worldcities8.cbl -text
 samples/worldcities/worldcities8.sh -text
-tools/OCic/FileStat-Msgs.cpy -text
-tools/OCic/OCic.cbl -text
-tools/OCic/OpenCOBOL-1.1-06FEB2009-OCic.pdf -text
+tools/GCic/FileStat-Msgs.cpy -text
+tools/GCic/GCic.cbl -text
+tools/GCic/OpenCOBOL-1.1-06FEB2009-OCic.pdf -text
 tools/changeformat/COPYING -text
 tools/changeformat/README -text
 tools/changeformat/changeformat.cbl -text
 tools/changeformat/compileall -text
 tools/cobjapi/doc/manual.pdf -text
-tools/cobjapi/doc/readme.txt -text
 tools/cobjapi/doc/refeng.pdf -text
 tools/cobjapi/doc/refger.pdf -text
-tools/cobjapi/examples/colorpicker/readme.txt -text
-tools/cobjapi/examples/digits/Makefile -text
 tools/cobjapi/examples/digits/cobjapi.cpy -text
 tools/cobjapi/examples/digits/cobjapifn.cpy -text
 tools/cobjapi/examples/digits/digits.cob -text
-tools/cobjapi/examples/digits/screenshots/digits.jpg -text
+tools/cobjapi/examples/digits/screenshots/digits.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/examples/digits/win_compile_digits.bat -text
-tools/cobjapi/examples/drawables/readme.txt -text
-tools/cobjapi/examples/imageviewer/Makefile -text
 tools/cobjapi/examples/imageviewer/cobjapi.cpy -text
 tools/cobjapi/examples/imageviewer/cobjapifn.cpy -text
 tools/cobjapi/examples/imageviewer/imageviewer.cob -text
-tools/cobjapi/examples/imageviewer/screenshots/imageviewer.jpg -text
+tools/cobjapi/examples/imageviewer/screenshots/imageviewer.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/examples/imageviewer/win_compile_imageviewer.bat -text
-tools/cobjapi/examples/mandelbrot/readme.txt -text
-tools/cobjapi/examples/texteditor/Makefile -text
 tools/cobjapi/examples/texteditor/cobjapi.cpy -text
 tools/cobjapi/examples/texteditor/cobjapifn.cpy -text
-tools/cobjapi/examples/texteditor/screenshots/texteditor.jpg -text
+tools/cobjapi/examples/texteditor/screenshots/texteditor.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/examples/texteditor/texteditor.cob -text
 tools/cobjapi/examples/texteditor/win_compile_texteditor.bat -text
-tools/cobjapi/examples/video/Makefile -text
 tools/cobjapi/examples/video/cobjapi.cpy -text
 tools/cobjapi/examples/video/cobjapifn.cpy -text
 tools/cobjapi/examples/video/images/ms01.gif -text
@@ -126,11 +118,10 @@ tools/cobjapi/examples/video/images/ms15.gif -text
 tools/cobjapi/examples/video/images/ms16.gif -text
 tools/cobjapi/examples/video/images/ms17.gif -text
 tools/cobjapi/examples/video/images/ms18.gif -text
-tools/cobjapi/examples/video/screenshots/video.jpg -text
+tools/cobjapi/examples/video/screenshots/video.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/examples/video/sounds/ping.au -text
 tools/cobjapi/examples/video/video.cob -text
 tools/cobjapi/examples/video/win_compile_video.bat -text
-tools/cobjapi/examples_simple/Makefile -text
 tools/cobjapi/examples_simple/alert.cob -text
 tools/cobjapi/examples_simple/borderlayout.cob -text
 tools/cobjapi/examples_simple/borderpanel.cob -text
@@ -179,54 +170,54 @@ tools/cobjapi/examples_simple/print.cob -text
 tools/cobjapi/examples_simple/radiobutton.cob -text
 tools/cobjapi/examples_simple/rubberband.cob -text
 tools/cobjapi/examples_simple/scaledimage.cob -text
-tools/cobjapi/examples_simple/screenshots/alert.jpg -text
-tools/cobjapi/examples_simple/screenshots/borderlayout.jpg -text
-tools/cobjapi/examples_simple/screenshots/borderpanel.jpg -text
-tools/cobjapi/examples_simple/screenshots/button.jpg -text
-tools/cobjapi/examples_simple/screenshots/canvas.jpg -text
-tools/cobjapi/examples_simple/screenshots/checkbox.jpg -text
-tools/cobjapi/examples_simple/screenshots/choice.jpg -text
-tools/cobjapi/examples_simple/screenshots/colors.jpg -text
-tools/cobjapi/examples_simple/screenshots/colors1.jpg -text
-tools/cobjapi/examples_simple/screenshots/componentlistener.jpg -text
-tools/cobjapi/examples_simple/screenshots/cursor.jpg -text
-tools/cobjapi/examples_simple/screenshots/daemon.jpg -text
-tools/cobjapi/examples_simple/screenshots/dialog.jpg -text
-tools/cobjapi/examples_simple/screenshots/dialogmodal.jpg -text
-tools/cobjapi/examples_simple/screenshots/filedialog.jpg -text
-tools/cobjapi/examples_simple/screenshots/flowlayout.jpg -text
-tools/cobjapi/examples_simple/screenshots/flowsimple.jpg -text
-tools/cobjapi/examples_simple/screenshots/focuslistener.jpg -text
-tools/cobjapi/examples_simple/screenshots/font.jpg -text
-tools/cobjapi/examples_simple/screenshots/frame.jpg -text
-tools/cobjapi/examples_simple/screenshots/graphic.jpg -text
-tools/cobjapi/examples_simple/screenshots/graphicbutton.jpg -text
-tools/cobjapi/examples_simple/screenshots/graphiclabel.jpg -text
-tools/cobjapi/examples_simple/screenshots/gridlayout.jpg -text
-tools/cobjapi/examples_simple/screenshots/image.jpg -text
-tools/cobjapi/examples_simple/screenshots/insets.jpg -text
-tools/cobjapi/examples_simple/screenshots/keylistener.jpg -text
-tools/cobjapi/examples_simple/screenshots/label.jpg -text
-tools/cobjapi/examples_simple/screenshots/lines.jpg -text
-tools/cobjapi/examples_simple/screenshots/list.jpg -text
-tools/cobjapi/examples_simple/screenshots/listmultiple.jpg -text
-tools/cobjapi/examples_simple/screenshots/menu.jpg -text
-tools/cobjapi/examples_simple/screenshots/mousebuttons.jpg -text
-tools/cobjapi/examples_simple/screenshots/mouselistener.jpg -text
-tools/cobjapi/examples_simple/screenshots/panel.jpg -text
-tools/cobjapi/examples_simple/screenshots/popupmenu.jpg -text
-tools/cobjapi/examples_simple/screenshots/print.jpg -text
-tools/cobjapi/examples_simple/screenshots/radiobutton.jpg -text
-tools/cobjapi/examples_simple/screenshots/rubberband.jpg -text
-tools/cobjapi/examples_simple/screenshots/scaledimage.jpg -text
-tools/cobjapi/examples_simple/screenshots/scrollbar.jpg -text
-tools/cobjapi/examples_simple/screenshots/scrollpane.jpg -text
-tools/cobjapi/examples_simple/screenshots/simple.jpg -text
-tools/cobjapi/examples_simple/screenshots/simplemenu.jpg -text
-tools/cobjapi/examples_simple/screenshots/textfield.jpg -text
-tools/cobjapi/examples_simple/screenshots/vumeter.jpg -text
-tools/cobjapi/examples_simple/screenshots/window.jpg -text
-tools/cobjapi/examples_simple/screenshots/windowlistener.jpg -text
+tools/cobjapi/examples_simple/screenshots/alert.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/borderlayout.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/borderpanel.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/button.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/canvas.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/checkbox.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/choice.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/colors.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/colors1.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/componentlistener.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/cursor.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/daemon.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/dialog.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/dialogmodal.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/filedialog.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/flowlayout.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/flowsimple.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/focuslistener.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/font.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/frame.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/graphic.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/graphicbutton.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/graphiclabel.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/gridlayout.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/image.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/insets.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/keylistener.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/label.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/lines.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/list.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/listmultiple.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/menu.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/mousebuttons.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/mouselistener.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/panel.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/popupmenu.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/print.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/radiobutton.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/rubberband.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/scaledimage.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/scrollbar.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/scrollpane.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/simple.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/simplemenu.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/textfield.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/vumeter.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/window.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples_simple/screenshots/windowlistener.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/examples_simple/scrollbar.cob -text
 tools/cobjapi/examples_simple/scrollpane.cob -text
 tools/cobjapi/examples_simple/simple.cob -text
@@ -236,15 +227,7 @@ tools/cobjapi/examples_simple/vumeter.cob -text
 tools/cobjapi/examples_simple/win_compile_examples_simple.bat -text
 tools/cobjapi/examples_simple/window.cob -text
 tools/cobjapi/examples_simple/windowlistener.cob -text
-tools/cobjapi/readme.txt -text
-tools/cobjapi/src_c/Makefile -text
-tools/cobjapi/src_c/fileselect.c -text
-tools/cobjapi/src_c/imageio.c -text
-tools/cobjapi/src_c/japi.h -text
-tools/cobjapi/src_c/japi_p.h -text
-tools/cobjapi/src_c/japilib.c -text
 tools/cobjapi/src_c/win_compile_src_c.bat -text
-tools/cobjapi/src_cobol/Makefile -text
 tools/cobjapi/src_cobol/cobjapi.cob -text
 tools/cobjapi/src_cobol/cobjapi.cpy -text
 tools/cobjapi/src_cobol/cobjapifn.cpy -text
@@ -297,7 +280,6 @@ tools/cobjapi/src_java/JAPI_VFlowlayout.java -text
 tools/cobjapi/src_java/JAPI_ValueComponent.java -text
 tools/cobjapi/src_java/JAPI_Window.java -text
 tools/cobjapi/src_java/JAPI_Windowlistener.java -text
-tools/cobjapi/src_java/Makefile -text
 tools/cobjapi/src_java/danger.gif -text
 tools/cobjapi/src_java/question.gif -text
 tools/cobjapi/src_java/win_compile_src_java.bat -text
@@ -429,14 +411,19 @@ tools/cobxref/cobxref-1.01.15.zip -text
 tools/cobxref/cobxref.cbl -text
 tools/cobxref/cobxref.lst -text
 tools/cobxref/comp-cobxref.sh eol=lf
+tools/cobxref/documentation_license.odt -text
+tools/cobxref/documentation_license.pdf -text
 tools/cobxref/get-reserved-lists.cbl -text
 tools/cobxref/get-reserved-lists.lst -text
+tools/dectrans/COPYING.pdf -text
 tools/dectrans/Changelog -text
 tools/dectrans/TODO -text
-tools/dectrans/dectrans -text
+tools/dectrans/dectrans-A4.pdf -text
+tools/dectrans/dectrans-IBM-Letter.pdf -text
 tools/dectrans/dectrans.cbl -text
 tools/dectrans/dectrans.pdf -text
-tools/dectrans/documentation[!!-~]license.odt -text
+tools/dectrans/documentation_license.odt -text
+tools/dectrans/documentation_license.pdf -text
 tools/dectrans/examples.zip -text
 tools/dectrans/readme -text
 tools/ocic-gui/OCiC-Mono.sln -text
