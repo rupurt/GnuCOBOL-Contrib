@@ -93,6 +93,15 @@ tools/cobjapi/examples/imageviewer/cobjapifn.cpy -text
 tools/cobjapi/examples/imageviewer/imageviewer.cob -text
 tools/cobjapi/examples/imageviewer/screenshots/imageviewer.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/examples/imageviewer/win_compile_imageviewer.bat -text
+tools/cobjapi/examples/mandelbrot/Makefile -text
+tools/cobjapi/examples/mandelbrot/cobjapi.cpy -text
+tools/cobjapi/examples/mandelbrot/mandelbrot1.cob -text
+tools/cobjapi/examples/mandelbrot/mandelbrot2.cob -text
+tools/cobjapi/examples/mandelbrot/mandelbrot3.cob -text
+tools/cobjapi/examples/mandelbrot/screenshots/mandelbrot1.jpg -text
+tools/cobjapi/examples/mandelbrot/screenshots/mandelbrot2.jpg -text
+tools/cobjapi/examples/mandelbrot/screenshots/mandelbrot3.jpg -text
+tools/cobjapi/examples/mandelbrot/win_compile_mandelbrot.bat -text
 tools/cobjapi/examples/texteditor/cobjapi.cpy -text
 tools/cobjapi/examples/texteditor/cobjapifn.cpy -text
 tools/cobjapi/examples/texteditor/screenshots/texteditor.jpg -text svneol=unset#image/jpeg
