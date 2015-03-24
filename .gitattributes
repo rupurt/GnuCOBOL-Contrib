@@ -95,6 +95,7 @@ tools/cobjapi/examples/imageviewer/screenshots/imageviewer.jpg -text svneol=unse
 tools/cobjapi/examples/imageviewer/win_compile_imageviewer.bat -text
 tools/cobjapi/examples/mandelbrot/Makefile -text
 tools/cobjapi/examples/mandelbrot/cobjapi.cpy -text
+tools/cobjapi/examples/mandelbrot/cobjapifn.cpy -text
 tools/cobjapi/examples/mandelbrot/mandelbrot1.cob -text
 tools/cobjapi/examples/mandelbrot/mandelbrot2.cob -text
 tools/cobjapi/examples/mandelbrot/mandelbrot3.cob -text
