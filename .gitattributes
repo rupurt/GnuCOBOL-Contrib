@@ -415,6 +415,7 @@ tools/cobweb/cobweb-gtk/voidcall_gtk.c -text
 tools/cobweb/cobweb-gtk/white66.png -text svneol=unset#image/png
 tools/cobweb/cobweb-logging/cobweb-log.cob -text
 tools/cobweb/cobweb-logging/cobweb-logging.cob -text
+tools/cobweb/cobweb-logging/cobweb-logging.cpy -text
 tools/cobxref/COPYING -text
 tools/cobxref/Changelog -text
 tools/cobxref/README -text
