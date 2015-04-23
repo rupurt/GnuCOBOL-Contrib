@@ -454,6 +454,33 @@ tools/ocic-gui/OCiC-Mono/gtk-gui/generated.cs -text
 tools/ocic-gui/OCiC-Mono/gtk-gui/gui.stetic -text
 tools/ocic-gui/OCiC-Mono/oc-icon.png -text
 tools/ocic-gui/oc-icon.png -text
+tools/ocsort/COPYING -text
+tools/ocsort/INSTALL -text
+tools/ocsort/Makefile -text
+tools/ocsort/README -text
+tools/ocsort/THANKS -text
+tools/ocsort/TODO -text
+tools/ocsort/condfield.c -text
+tools/ocsort/condfield.h -text
+tools/ocsort/fieldvalue.c -text
+tools/ocsort/fieldvalue.h -text
+tools/ocsort/file.c -text
+tools/ocsort/file.h -text
+tools/ocsort/job.c -text
+tools/ocsort/job.h -text
+tools/ocsort/ocsort.c -text
+tools/ocsort/ocsort.cbp -text svneol=unset#application/xml
+tools/ocsort/ocsort.depend -text
+tools/ocsort/ocsort.h -text
+tools/ocsort/ocsort.layout -text svneol=unset#application/xml
+tools/ocsort/outrec.c -text
+tools/ocsort/outrec.h -text
+tools/ocsort/parser.y -text
+tools/ocsort/scanner.l -text
+tools/ocsort/sortfield.c -text
+tools/ocsort/sortfield.h -text
+tools/ocsort/utils.c -text
+tools/ocsort/utils.h -text
 tools/printcbl/Changelog -text
 tools/printcbl/README -text
 tools/printcbl/printcbl.cbl -text
