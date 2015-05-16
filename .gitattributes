@@ -38,6 +38,12 @@ samples/games/wumpus/readme.txt -text
 samples/games/wumpus/wumpus.cob -text
 samples/prime_machine/prime_machine.cob -text
 samples/prime_machine/prime_machine2.cob -text
+samples/prothsearch/Makefile -text
+samples/prothsearch/prothsearch.cob -text
+samples/prothsearch/prothtest.cob -text
+samples/prothsearch/readme.txt -text
+samples/prothsearch/smallprimes.cpy -text
+samples/prothsearch/win_compile.bat -text
 samples/week-day/README -text
 samples/week-day/week-day-85.cob -text
 samples/week-day/week-day.cob -text
