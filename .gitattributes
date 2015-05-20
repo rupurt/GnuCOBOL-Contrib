@@ -302,6 +302,11 @@ tools/cobjapi/src_java/win_compile_src_java.bat -text
 tools/cobolmac/COPYING -text
 tools/cobolmac/ChangeLog -text
 tools/cobolmac/DevNotes -text
+tools/cobolmac/Examples/JOBCARDC.cbl -text
+tools/cobolmac/Examples/JOBCARDC.cob -text
+tools/cobolmac/Examples/JOBCARDC.inc -text
+tools/cobolmac/Examples/Macros.inc -text
+tools/cobolmac/Examples/README -text
 tools/cobolmac/Manual.htm -text
 tools/cobolmac/Manual.txt -text
 tools/cobolmac/README -text
