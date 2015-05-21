@@ -313,6 +313,7 @@ tools/cobolmac/README -text
 tools/cobolmac/ToDo -text
 tools/cobolmac/cobolmac -text
 tools/cobolmac/cobolmac.cob -text
+tools/cobolmac/cobolmac.lst -text
 tools/cobolmac/comp-cobolmac.sh -text
 tools/cobweb/cobodoc/AUTHORS -text
 tools/cobweb/cobodoc/COPYING -text
