@@ -89,6 +89,12 @@ tools/changeformat/compileall -text
 tools/cobjapi/doc/manual.pdf -text
 tools/cobjapi/doc/refeng.pdf -text
 tools/cobjapi/doc/refger.pdf -text
+tools/cobjapi/examples/colorpicker/Makefile -text
+tools/cobjapi/examples/colorpicker/cobjapi.cpy -text
+tools/cobjapi/examples/colorpicker/cobjapifn.cpy -text
+tools/cobjapi/examples/colorpicker/colorpicker.cob -text
+tools/cobjapi/examples/colorpicker/screenshots/colorpicker.jpg -text
+tools/cobjapi/examples/colorpicker/win_compile_colorpicker.bat -text
 tools/cobjapi/examples/digits/cobjapi.cpy -text
 tools/cobjapi/examples/digits/cobjapifn.cpy -text
 tools/cobjapi/examples/digits/digits.cob -text
