@@ -84,6 +84,7 @@ samples/colours/*.pdb
 samples/colours/*.sbr
 samples/colours/*.so
 samples/colours/gnucobol-colours
+samples/dasize/dasize
 samples/games/*.c*
 samples/games/*.dll
 samples/games/*.exe

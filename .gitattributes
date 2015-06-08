@@ -31,6 +31,8 @@ samples/cgiupload/win_compile.bat -text
 samples/cobdes/cobdes.cob -text
 samples/cobdes/testdes.cob -text
 samples/colours/gnucobol-colours.cob -text
+samples/dasize/dasize.cob -text
+samples/dasize/readme.txt -text
 samples/games/2048/2048-GAME.COB -text
 samples/games/star_trek/ctrek.cob -text
 samples/games/wumpus/dodecahedron.jpeg -text svneol=unset#image/jpeg
