@@ -26,6 +26,7 @@ samples/HelloWorld/*.sbr
 samples/HelloWorld/*.so
 samples/HelloWorld/bigworld
 samples/HelloWorld/hello
+samples/accept-keys/ask
 samples/altkey/*.c*
 samples/altkey/*.dll
 samples/altkey/*.exe
