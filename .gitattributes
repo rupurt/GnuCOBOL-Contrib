@@ -104,6 +104,13 @@ tools/cobjapi/examples/digits/cobjapifn.cpy -text
 tools/cobjapi/examples/digits/digits.cob -text
 tools/cobjapi/examples/digits/screenshots/digits.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/examples/digits/win_compile_digits.bat -text
+tools/cobjapi/examples/drawables/Makefile -text
+tools/cobjapi/examples/drawables/cobjapi.cpy -text
+tools/cobjapi/examples/drawables/cobjapifn.cpy -text
+tools/cobjapi/examples/drawables/drawables.cob -text
+tools/cobjapi/examples/drawables/images/twux.png -text
+tools/cobjapi/examples/drawables/screenshots/drawables.jpg -text
+tools/cobjapi/examples/drawables/win_compile_drawables.bat -text
 tools/cobjapi/examples/imageviewer/cobjapi.cpy -text
 tools/cobjapi/examples/imageviewer/cobjapifn.cpy -text
 tools/cobjapi/examples/imageviewer/imageviewer.cob -text
