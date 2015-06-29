@@ -162,7 +162,6 @@ tools/cobjapi/examples_simple/button.cob -text
 tools/cobjapi/examples_simple/canvas.cob -text
 tools/cobjapi/examples_simple/checkbox.cob -text
 tools/cobjapi/examples_simple/choice.cob -text
-tools/cobjapi/examples_simple/cobjapi.cpy -text
 tools/cobjapi/examples_simple/colors.cob -text
 tools/cobjapi/examples_simple/colors1.cob -text
 tools/cobjapi/examples_simple/componentlistener.cob -text
