@@ -94,31 +94,21 @@ tools/cobjapi/doc/manual.pdf -text
 tools/cobjapi/doc/refeng.pdf -text
 tools/cobjapi/doc/refger.pdf -text
 tools/cobjapi/examples/colorpicker/Makefile -text
-tools/cobjapi/examples/colorpicker/cobjapi.cpy -text
-tools/cobjapi/examples/colorpicker/cobjapifn.cpy -text
 tools/cobjapi/examples/colorpicker/colorpicker.cob -text
 tools/cobjapi/examples/colorpicker/screenshots/colorpicker.jpg -text
 tools/cobjapi/examples/colorpicker/win_compile_colorpicker.bat -text
-tools/cobjapi/examples/digits/cobjapi.cpy -text
-tools/cobjapi/examples/digits/cobjapifn.cpy -text
 tools/cobjapi/examples/digits/digits.cob -text
 tools/cobjapi/examples/digits/screenshots/digits.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/examples/digits/win_compile_digits.bat -text
 tools/cobjapi/examples/drawables/Makefile -text
-tools/cobjapi/examples/drawables/cobjapi.cpy -text
-tools/cobjapi/examples/drawables/cobjapifn.cpy -text
 tools/cobjapi/examples/drawables/drawables.cob -text
 tools/cobjapi/examples/drawables/images/twux.png -text
 tools/cobjapi/examples/drawables/screenshots/drawables.jpg -text
 tools/cobjapi/examples/drawables/win_compile_drawables.bat -text
-tools/cobjapi/examples/imageviewer/cobjapi.cpy -text
-tools/cobjapi/examples/imageviewer/cobjapifn.cpy -text
 tools/cobjapi/examples/imageviewer/imageviewer.cob -text
 tools/cobjapi/examples/imageviewer/screenshots/imageviewer.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/examples/imageviewer/win_compile_imageviewer.bat -text
 tools/cobjapi/examples/mandelbrot/Makefile -text
-tools/cobjapi/examples/mandelbrot/cobjapi.cpy -text
-tools/cobjapi/examples/mandelbrot/cobjapifn.cpy -text
 tools/cobjapi/examples/mandelbrot/mandelbrot1.cob -text
 tools/cobjapi/examples/mandelbrot/mandelbrot2.cob -text
 tools/cobjapi/examples/mandelbrot/mandelbrot3.cob -text
@@ -126,13 +116,9 @@ tools/cobjapi/examples/mandelbrot/screenshots/mandelbrot1.jpg -text
 tools/cobjapi/examples/mandelbrot/screenshots/mandelbrot2.jpg -text
 tools/cobjapi/examples/mandelbrot/screenshots/mandelbrot3.jpg -text
 tools/cobjapi/examples/mandelbrot/win_compile_mandelbrot.bat -text
-tools/cobjapi/examples/texteditor/cobjapi.cpy -text
-tools/cobjapi/examples/texteditor/cobjapifn.cpy -text
 tools/cobjapi/examples/texteditor/screenshots/texteditor.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/examples/texteditor/texteditor.cob -text
 tools/cobjapi/examples/texteditor/win_compile_texteditor.bat -text
-tools/cobjapi/examples/video/cobjapi.cpy -text
-tools/cobjapi/examples/video/cobjapifn.cpy -text
 tools/cobjapi/examples/video/images/ms01.gif -text
 tools/cobjapi/examples/video/images/ms02.gif -text
 tools/cobjapi/examples/video/images/ms03.gif -text
