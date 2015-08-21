@@ -17,6 +17,12 @@ samples/altkey/altkey.cob -text
 samples/altkey/readme.txt -text
 samples/boxdraw/boxdraw.cob -text
 samples/boxdraw/readme.txt -text
+samples/cgiform/cgiform.cob -text
+samples/cgiform/cgiform.html -text
+samples/cgiform/cygwin_apache_start.sh -text
+samples/cgiform/cygwin_apache_stop.sh -text
+samples/cgiform/makefile -text
+samples/cgiform/readme.txt -text
 samples/cgiupload/cgiupload.cob -text
 samples/cgiupload/cygwin_apache_start.sh -text
 samples/cgiupload/cygwin_apache_stop.sh -text
