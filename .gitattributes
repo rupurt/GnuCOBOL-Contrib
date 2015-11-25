@@ -317,13 +317,11 @@ tools/cobolmac/Examples/JOBCARDC.cob -text
 tools/cobolmac/Examples/JOBCARDC.inc -text
 tools/cobolmac/Examples/Macros.inc -text
 tools/cobolmac/Examples/README -text
-tools/cobolmac/Manual.htm -text
 tools/cobolmac/Manual.txt -text
 tools/cobolmac/README -text
 tools/cobolmac/ToDo -text
 tools/cobolmac/cobolmac -text
 tools/cobolmac/cobolmac.cob -text
-tools/cobolmac/cobolmac.lst -text
 tools/cobolmac/comp-cobolmac.sh -text
 tools/cobweb/cobodoc/AUTHORS -text
 tools/cobweb/cobodoc/COPYING -text
