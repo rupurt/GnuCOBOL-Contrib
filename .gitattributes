@@ -322,7 +322,6 @@ tools/cobolmac/Macros/README -text
 tools/cobolmac/Macros/sql3i4gc.inc -text
 tools/cobolmac/README -text
 tools/cobolmac/ToDo -text
-tools/cobolmac/cobolmac -text
 tools/cobolmac/cobolmac.cob -text
 tools/cobolmac/cobolmac.css -text
 tools/cobolmac/cobolmac.html -text
