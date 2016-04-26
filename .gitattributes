@@ -172,6 +172,15 @@ samples/worldcities/worldcities8.sh -text
 tools/GCic/FileStat-Msgs.cpy -text
 tools/GCic/GCic.cbl -text
 tools/GCic/OpenCOBOL-1.1-06FEB2009-OCic.pdf -text
+tools/cgi4cobol/install.sh -text
+tools/cgi4cobol/libcobcgi.c eol=lf
+tools/cgi4cobol/libcobcgi.h eol=lf
+tools/cgi4cobol/license/CDDL_1.LICENSE eol=lf
+tools/cgi4cobol/readme.md eol=lf
+tools/cgi4cobol/template.html eol=lf
+tools/cgi4cobol/tutorial/cgivalue.cbl eol=lf
+tools/cgi4cobol/tutorial/cstring.cbl eol=lf
+tools/cgi4cobol/tutorial/readme.md eol=lf
 tools/changeformat/COPYING -text
 tools/changeformat/README -text
 tools/changeformat/changeformat.cbl -text
