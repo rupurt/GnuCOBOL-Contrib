@@ -7,6 +7,15 @@ esql/esqlOC/vcache.h -text
 esql/ocsql/ocsql.vcproj -text
 esql/ocsql/ocsql2.cpp -text
 esql/open-cobol-sql.sln -text
+ipc/CBL_OC_SOCKET/README.txt -text
+ipc/CBL_OC_SOCKET/build.sh -text
+ipc/CBL_OC_SOCKET/cob_socket.cpp -text
+ipc/CBL_OC_SOCKET/cob_socket.h -text
+ipc/CBL_OC_SOCKET/documentation_de.odt -text
+ipc/CBL_OC_SOCKET/sample/client.cob -text
+ipc/CBL_OC_SOCKET/sample/server.cob -text
+ipc/CBL_OC_SOCKET/sample_mutli/CLIENT.COB -text
+ipc/CBL_OC_SOCKET/sample_mutli/MULTISRV.COB -text
 samples/DB2sample/SQLtable/db2_create_table.sh -text
 samples/DB2sample/SQLtable/db2_create_table.sql -text
 samples/DB2sample/SQLtable/db2_describe.sh -text
