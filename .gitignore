@@ -169,6 +169,7 @@ samples/worldcities/*.obj
 samples/worldcities/*.pdb
 samples/worldcities/*.sbr
 samples/worldcities/*.so
+tools/BPEdit/dist
 tools/cgi4cobol/*.dll
 tools/cgi4cobol/*.exe
 tools/cgi4cobol/*.exp
