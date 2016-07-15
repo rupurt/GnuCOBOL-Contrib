@@ -146,6 +146,8 @@ samples/dasize/readme.txt -text
 samples/games/2048/2048-GAME.COB -text
 samples/games/star_trek/README -text
 samples/games/star_trek/ctrek.cob -text
+samples/games/twentyfour/README.md -text
+samples/games/twentyfour/twentyfour.cob -text
 samples/games/wumpus/dodecahedron.jpeg -text svneol=unset#image/jpeg
 samples/games/wumpus/readme.txt -text
 samples/games/wumpus/wumpus.cob -text
