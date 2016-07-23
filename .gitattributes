@@ -599,6 +599,12 @@ tools/cobweb/cobweb-gtk/white66.png -text svneol=unset#image/png
 tools/cobweb/cobweb-logging/cobweb-log.cob -text
 tools/cobweb/cobweb-logging/cobweb-logging.cob -text
 tools/cobweb/cobweb-logging/cobweb-logging.cpy -text
+tools/cobweb/cobweb-math/Makefile -text
+tools/cobweb/cobweb-math/README.md -text
+tools/cobweb/cobweb-math/cobweb-math-demo.cob -text
+tools/cobweb/cobweb-math/cobweb-math.cob -text
+tools/cobweb/cobweb-math/cobweb-math.html -text
+tools/cobweb/cobweb-math/wrapmath.c -text
 tools/cobweb/cobweb-pipes/README.md -text
 tools/cobweb/cobweb-pipes/cobweb-pipes.cob -text
 tools/cobweb/cobweb-pipes/pipe-sample.cob -text
