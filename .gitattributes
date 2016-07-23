@@ -603,6 +603,7 @@ tools/cobweb/cobweb-math/Makefile -text
 tools/cobweb/cobweb-math/README.md -text
 tools/cobweb/cobweb-math/cobweb-math-demo.cob -text
 tools/cobweb/cobweb-math/cobweb-math.cob -text
+tools/cobweb/cobweb-math/cobweb-math.cpy -text
 tools/cobweb/cobweb-math/cobweb-math.html -text
 tools/cobweb/cobweb-math/wrapmath.c -text
 tools/cobweb/cobweb-pipes/README.md -text
