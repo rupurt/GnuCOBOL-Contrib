@@ -245,6 +245,7 @@ tools/changeformat/COPYING -text
 tools/changeformat/README -text
 tools/changeformat/changeformat.cbl -text
 tools/changeformat/compileall -text
+tools/cobjapi/COPYING -text
 tools/cobjapi/doc/manual.pdf -text
 tools/cobjapi/doc/refeng.pdf -text
 tools/cobjapi/doc/refger.pdf -text
