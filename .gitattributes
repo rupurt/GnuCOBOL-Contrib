@@ -275,6 +275,18 @@ tools/cobjapi/examples/mandelbrot/win_compile_mandelbrot.bat -text
 tools/cobjapi/examples/texteditor/screenshots/texteditor.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/examples/texteditor/texteditor.cob -text
 tools/cobjapi/examples/texteditor/win_compile_texteditor.bat -text
+tools/cobjapi/examples/thinclient/Makefile -text
+tools/cobjapi/examples/thinclient/readme.txt -text
+tools/cobjapi/examples/thinclient/screenshots/client_01.jpg -text
+tools/cobjapi/examples/thinclient/screenshots/client_02.jpg -text
+tools/cobjapi/examples/thinclient/screenshots/client_03.jpg -text
+tools/cobjapi/examples/thinclient/screenshots/client_04.jpg -text
+tools/cobjapi/examples/thinclient/screenshots/client_05.jpg -text
+tools/cobjapi/examples/thinclient/screenshots/server_01.jpg -text
+tools/cobjapi/examples/thinclient/screenshots/server_02.jpg -text
+tools/cobjapi/examples/thinclient/screenshots/server_03.jpg -text
+tools/cobjapi/examples/thinclient/thinclient.cob -text
+tools/cobjapi/examples/thinclient/win_compile_thinclient.bat -text
 tools/cobjapi/examples/video/images/ms01.gif -text
 tools/cobjapi/examples/video/images/ms02.gif -text
 tools/cobjapi/examples/video/images/ms03.gif -text
