@@ -620,6 +620,7 @@ tools/cobweb/cobweb-math/cobweb-math.cpy -text
 tools/cobweb/cobweb-math/cobweb-math.html -text
 tools/cobweb/cobweb-math/wrapmath.c -text
 tools/cobweb/cobweb-pipes/README.md -text
+tools/cobweb/cobweb-pipes/cobweb-call-pipes.cob -text
 tools/cobweb/cobweb-pipes/cobweb-pipes.cob -text
 tools/cobweb/cobweb-pipes/pipe-sample.cob -text
 tools/cobxref/COPYING -text
