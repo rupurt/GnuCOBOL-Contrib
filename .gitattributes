@@ -232,6 +232,12 @@ tools/BPEdit/create_exe.bat -text
 tools/GCic/FileStat-Msgs.cpy -text
 tools/GCic/GCic.cbl -text
 tools/GCic/OpenCOBOL-1.1-06FEB2009-OCic.pdf -text
+tools/TUI-TOOLS/GC01BOX.COB -text
+tools/TUI-TOOLS/GC01BOX.CPY -text
+tools/TUI-TOOLS/GC01BOXDEMO.COB -text
+tools/TUI-TOOLS/GC56DATEPICDEMO.COB -text
+tools/TUI-TOOLS/GC56DATEPICKER.cob -text
+tools/TUI-TOOLS/GC56DATEPICKER.cpy -text
 tools/cgi4cobol/install.sh -text
 tools/cgi4cobol/libcobcgi.c eol=lf
 tools/cgi4cobol/libcobcgi.h eol=lf
@@ -690,9 +696,3 @@ tools/printcbl/README -text
 tools/printcbl/printcbl.cbl -text
 tools/printcbl/printcbl.pdf -text
 tools/printcbl/testpak1.zip -text
-tools/tui_helpers/GC01BOX.COB -text
-tools/tui_helpers/GC01BOX.CPY -text
-tools/tui_helpers/GC01BOXDEMO.COB -text
-tools/tui_helpers/GC56DATEPICDEMO.COB -text
-tools/tui_helpers/GC56DATEPICKER.cob -text
-tools/tui_helpers/GC56DATEPICKER.cpy -text
