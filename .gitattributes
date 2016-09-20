@@ -232,6 +232,7 @@ tools/BPEdit/create_exe.bat -text
 tools/GCic/FileStat-Msgs.cpy -text
 tools/GCic/GCic.cbl -text
 tools/GCic/OpenCOBOL-1.1-06FEB2009-OCic.pdf -text
+tools/TUI-TOOLS/GC01BOX-SCREENSHOTS.doc -text
 tools/TUI-TOOLS/GC01BOX.COB -text
 tools/TUI-TOOLS/GC01BOX.CPY -text
 tools/TUI-TOOLS/GC01BOXDEMO.COB -text
