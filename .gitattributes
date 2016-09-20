@@ -692,3 +692,4 @@ tools/printcbl/printcbl.pdf -text
 tools/printcbl/testpak1.zip -text
 tools/tui_helpers/GC01BOX.COB -text
 tools/tui_helpers/GC01BOX.CPY -text
+tools/tui_helpers/GC01BOXDEMO.COB -text
