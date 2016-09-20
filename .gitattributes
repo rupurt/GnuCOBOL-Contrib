@@ -695,3 +695,4 @@ tools/tui_helpers/GC01BOX.CPY -text
 tools/tui_helpers/GC01BOXDEMO.COB -text
 tools/tui_helpers/GC56DATEPICDEMO.COB -text
 tools/tui_helpers/GC56DATEPICKER.cob -text
+tools/tui_helpers/GC56DATEPICKER.cpy -text
