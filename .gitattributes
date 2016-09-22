@@ -236,10 +236,10 @@ tools/TUI-TOOLS/GC01BOX-SCREENSHOTS.doc -text
 tools/TUI-TOOLS/GC01BOX.COB -text
 tools/TUI-TOOLS/GC01BOX.CPY -text
 tools/TUI-TOOLS/GC01BOXDEMO.COB -text
-tools/TUI-TOOLS/GC56DATEPICDEMO.COB -text
 tools/TUI-TOOLS/GC56DATEPICKER-SCREENSHOTS.doc -text
 tools/TUI-TOOLS/GC56DATEPICKER.CPY -text
 tools/TUI-TOOLS/GC56DATEPICKER.cob -text
+tools/TUI-TOOLS/GC56DATEPICKERDEMO.COB -text
 tools/cgi4cobol/install.sh -text
 tools/cgi4cobol/libcobcgi.c eol=lf
 tools/cgi4cobol/libcobcgi.h eol=lf
