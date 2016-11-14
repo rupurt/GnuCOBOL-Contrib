@@ -115,8 +115,6 @@ samples/cgiform/cygwin_apache_stop.sh -text
 samples/cgiform/makefile -text
 samples/cgiform/readme.txt -text
 samples/cgiupload/cgiupload.cob -text
-samples/cgiupload/cygwin_apache_start.sh -text
-samples/cgiupload/cygwin_apache_stop.sh -text
 samples/cgiupload/cygwin_compile.sh -text
 samples/cgiupload/readme.txt -text
 samples/cgiupload/upload1.html -text
