@@ -221,6 +221,7 @@ tools/BPEdit/bpedit/app.py -text
 tools/BPEdit/bpedit/backend/__init__.py -text
 tools/BPEdit/bpedit/backend/breakpoints_mgr.py -text
 tools/BPEdit/bpedit/backend/cwrapper.py -text
+tools/BPEdit/bpedit/backend/settings.py -text
 tools/BPEdit/bpedit/gui/__init__.py -text
 tools/BPEdit/bpedit/gui/breakpoints_panel.py -text
 tools/BPEdit/bpedit/gui/gui_handler.py -text
