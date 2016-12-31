@@ -212,6 +212,7 @@ samples/worldcities/worldcities8.cbl -text
 samples/worldcities/worldcities8.sh -text
 tools/BPEdit/.project -text
 tools/BPEdit/.pydevproject -text
+tools/BPEdit/BPEdit.bat -text
 tools/BPEdit/BPEdit.pyw -text
 tools/BPEdit/README.txt -text
 tools/BPEdit/TODO.txt -text
