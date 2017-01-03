@@ -170,6 +170,7 @@ samples/worldcities/*.pdb
 samples/worldcities/*.sbr
 samples/worldcities/*.so
 tools/BPEdit/dist
+tools/BPEdit/paths.ini
 tools/GCSORT/gccsort_gentestcase/build_windows/vc10/*.suo
 tools/cgi4cobol/*.dll
 tools/cgi4cobol/*.exe

@@ -232,7 +232,7 @@ tools/BPEdit/bpedit/utils/string_utils.py -text
 tools/BPEdit/create_exe.bat -text
 tools/BPEdit/env-setup.bat -text
 tools/BPEdit/env-setup.sh -text
-tools/BPEdit/paths.ini -text
+tools/BPEdit/paths.tmpl.ini -text
 tools/BPEdit/requirements.txt -text
 tools/GCSORT/AUTHORS -text
 tools/GCSORT/COPYING -text
