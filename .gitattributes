@@ -1162,6 +1162,9 @@ tools/dectrans/documentation_license.odt -text
 tools/dectrans/documentation_license.pdf -text
 tools/dectrans/examples.zip -text
 tools/dectrans/readme -text
+tools/gctest/Makefile -text
+tools/gctest/README -text
+tools/gctest/gctest.c -text
 tools/ocic-gui/OCiC-Mono.sln -text
 tools/ocic-gui/OCiC-Mono/AssemblyInfo.cs -text
 tools/ocic-gui/OCiC-Mono/Libraries/MessageBox.cs -text
