@@ -1243,7 +1243,6 @@ tools/gcstats/gcstats.bat -text
 tools/gctest/Makefile -text
 tools/gctest/README -text
 tools/gctest/gctest.c -text
-tools/mysql-procedures.cpy -text
 tools/mysql-variables.cpy -text
 tools/ocic-gui/OCiC-Mono.sln -text
 tools/ocic-gui/OCiC-Mono/AssemblyInfo.cs -text
