@@ -210,16 +210,6 @@ samples/worldcities/worldcities7.cbl -text
 samples/worldcities/worldcities7.sh -text
 samples/worldcities/worldcities8.cbl -text
 samples/worldcities/worldcities8.sh -text
-tools/ACAS/ACASDB.sql -text
-tools/ACAS/acas011.cbl -text
-tools/ACAS/fhlogger.cbl -text
-tools/ACAS/mysql-procedures.cpy -text
-tools/ACAS/mysql-variables.cpy -text
-tools/ACAS/presql2M.param -text
-tools/ACAS/stock-rec -text
-tools/ACAS/stockLD.cbl -text
-tools/ACAS/stockMT.cbl -text
-tools/ACAS/stockMT.scb -text
 tools/BPEdit/.project -text
 tools/BPEdit/.pydevproject -text
 tools/BPEdit/BPEdit.bat -text
