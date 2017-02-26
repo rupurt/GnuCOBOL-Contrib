@@ -747,6 +747,7 @@ tools/TUI-TOOLS/GC58SAVERCLOCK.COB -text
 tools/TUI-TOOLS/GC58SAVERCLOCK.CPY -text
 tools/TUI-TOOLS/GC58SAVERCLOCKDEMO.COB -text
 tools/TUI-TOOLS/GC98KEYCODE.CPY -text
+tools/TUI-TOOLS/GC99COPYGEN.COB -text
 tools/TUI-TOOLS/README -text
 tools/cgi4cobol/install.sh -text
 tools/cgi4cobol/libcobcgi.c eol=lf
