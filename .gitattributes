@@ -244,8 +244,6 @@ tools/BPEdit/env-setup.bat -text
 tools/BPEdit/env-setup.sh -text
 tools/BPEdit/paths.tmpl.ini -text
 tools/BPEdit/requirements.txt -text
-tools/DB-Schema/prtschem2M.param -text
-tools/DB-Schema/schema.t -text
 tools/GCSORT/AUTHORS -text
 tools/GCSORT/COPYING -text
 tools/GCSORT/ChangeLog -text
