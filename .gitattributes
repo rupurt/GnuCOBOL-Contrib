@@ -1236,7 +1236,6 @@ tools/dectrans/documentation_license.odt -text
 tools/dectrans/documentation_license.pdf -text
 tools/dectrans/examples.zip -text
 tools/dectrans/readme -text
-tools/documentation_license.pdf -text
 tools/gcstats/Makefile -text
 tools/gcstats/README -text
 tools/gcstats/gcstats.bat -text
