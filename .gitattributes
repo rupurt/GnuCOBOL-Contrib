@@ -823,7 +823,6 @@ tools/Variations/prtschema2M.cbl -text
 tools/Variations/prtschema2M.scb -text
 tools/Variations/prtschema2o.cbl -text
 tools/Variations/prtschema2o.scb -text
-tools/bldcopy.cbl -text
 tools/cgi4cobol/install.sh -text
 tools/cgi4cobol/libcobcgi.c eol=lf
 tools/cgi4cobol/libcobcgi.h eol=lf
