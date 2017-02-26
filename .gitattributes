@@ -769,7 +769,6 @@ tools/JC-SQL-Precompiler/presql.pdf -text
 tools/JC-SQL-Precompiler/prtschema.scb -text
 tools/JC-SQL-Precompiler/test1 -text
 tools/JC-SQL-Precompiler/test1.cbl -text
-tools/README -text
 tools/TUI-TOOLS/GC01BOX-SCREENSHOTS.pdf -text svneol=unset#unset
 tools/TUI-TOOLS/GC01BOX.COB -text
 tools/TUI-TOOLS/GC01BOX.CPY -text
