@@ -1,5 +1,6 @@
 * text=auto !eol
 /README -text
+esql/README.md -text
 esql/esqlOC/esqlOC.cpp -text
 esql/esqlOC/esqlOC.vcproj -text
 esql/esqlOC/vcache.cpp -text
