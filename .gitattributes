@@ -4,7 +4,6 @@ esql/README.md -text
 esql/esqlOC/esqlOC.cpp -text
 esql/esqlOC/vcache.cpp -text
 esql/esqlOC/vcache.h -text
-esql/ocsql/ocsql.vcproj -text
 esql/ocsql/ocsql2.cpp -text
 ipc/CBL_OC_SOCKET/COPYING.LESSER -text
 ipc/CBL_OC_SOCKET/README.txt -text
