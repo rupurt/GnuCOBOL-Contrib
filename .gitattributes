@@ -1,5 +1,15 @@
 * text=auto !eol
 /README -text
+at_test_win/1c.sed -text
+at_test_win/2c.sed -text
+at_test_win/COPYING -text
+at_test_win/listings-sed-c.cmd -text
+at_test_win/tests.cmd -text
+at_test_win/wintest.jar -text
+at_test_win/wintest.properties -text
+at_test_win/wintest/comp.cmd -text
+at_test_win/wintest/src/org/fsf/gnucobol/TESTSUITE.java -text
+at_test_win/wintest_skip.properties -text
 esql/AUTHORS -text
 esql/COPYING -text
 esql/COPYING.LESSER -text
