@@ -160,6 +160,7 @@ samples/HelloWorld/Makefile -text
 samples/HelloWorld/README -text
 samples/HelloWorld/bigworld.cob -text
 samples/HelloWorld/hello.cob -text
+samples/HelloWorld/minimalworld.cob -text
 samples/accept-keys/ask.cob -text
 samples/accept-keys/readme.txt -text
 samples/altkey/altkey.cob -text
