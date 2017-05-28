@@ -861,6 +861,7 @@ tools/TUI-TOOLS/GC71FALI.DAT.1 -text
 tools/TUI-TOOLS/GC71FALI.DAT.2 -text
 tools/TUI-TOOLS/GC71FALI.DAT.3 -text
 tools/TUI-TOOLS/GC74HELP-SCREENSHOT.pdf -text
+tools/TUI-TOOLS/GC74HELPFILE.DAT -text
 tools/TUI-TOOLS/GC74HELPFILE.TXT -text
 tools/TUI-TOOLS/GC74HELPLIST.COB -text
 tools/TUI-TOOLS/GC74HELPLOAD.COB -text
@@ -869,7 +870,6 @@ tools/TUI-TOOLS/GC74HELPVIEW.CPY -text
 tools/TUI-TOOLS/GC98KEYCODE.CPY -text
 tools/TUI-TOOLS/GC99COPYGEN.COB -text
 tools/TUI-TOOLS/README -text
-tools/TUI-TOOLS/gc74helpfile.DAT -text
 tools/cgi4cobol/install.sh -text
 tools/cgi4cobol/libcobcgi.c eol=lf
 tools/cgi4cobol/libcobcgi.h eol=lf
