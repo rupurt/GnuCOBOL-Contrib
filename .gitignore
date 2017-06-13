@@ -1,4 +1,5 @@
-samples/*.c*
+samples/*.c
+samples/*.c.*
 samples/*.dll
 samples/*.exe
 samples/*.exp
@@ -56,6 +57,20 @@ samples/boxdraw/*.pdb
 samples/boxdraw/*.sbr
 samples/boxdraw/*.so
 samples/boxdraw/boxdraw
+samples/c_libraries/*.c
+samples/c_libraries/*.c.*
+samples/c_libraries/*.dll
+samples/c_libraries/*.exe
+samples/c_libraries/*.exp
+samples/c_libraries/*.i
+samples/c_libraries/*.ilk
+samples/c_libraries/*.lib
+samples/c_libraries/*.lst
+samples/c_libraries/*.manifest
+samples/c_libraries/*.obj
+samples/c_libraries/*.pdb
+samples/c_libraries/*.sbr
+samples/c_libraries/*.so
 samples/cobdes/*.c*
 samples/cobdes/*.dll
 samples/cobdes/*.exe
