@@ -279,7 +279,9 @@ tools/BPEdit/.project -text
 tools/BPEdit/.pydevproject -text
 tools/BPEdit/BPEdit.bat -text
 tools/BPEdit/BPEdit.pyw -text
+tools/BPEdit/BPEdit_create_dist.bat -text
 tools/BPEdit/README.txt -text
+tools/BPEdit/Screenshot.PNG -text
 tools/BPEdit/TODO.txt -text
 tools/BPEdit/bpedit.ui -text
 tools/BPEdit/bpedit/__init__.py -text
@@ -297,6 +299,7 @@ tools/BPEdit/bpedit/utils/string_utils.py -text
 tools/BPEdit/create_exe.bat -text
 tools/BPEdit/env-setup.bat -text
 tools/BPEdit/env-setup.sh -text
+tools/BPEdit/exclude.lst -text
 tools/BPEdit/paths.tmpl.ini -text
 tools/BPEdit/requirements.txt -text
 tools/GCSORT/AUTHORS -text
