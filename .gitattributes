@@ -302,6 +302,10 @@ tools/BPEdit/env-setup.sh -text
 tools/BPEdit/exclude.lst -text
 tools/BPEdit/paths.tmpl.ini -text
 tools/BPEdit/requirements.txt -text
+tools/CobolSQLite3/COPYING -text
+tools/CobolSQLite3/CobolSQLite3-test.cob -text
+tools/CobolSQLite3/CobolSQLite3.cob -text
+tools/CobolSQLite3/README.md -text
 tools/GCSORT/AUTHORS -text
 tools/GCSORT/COPYING -text
 tools/GCSORT/ChangeLog -text
