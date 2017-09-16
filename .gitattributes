@@ -171,6 +171,8 @@ samples/c_libraries/CBL_ZLIB.cob -text
 samples/c_libraries/ChangeLog -text
 samples/c_libraries/README -text
 samples/c_libraries/ZLIBPARAMS.CPY -text
+samples/c_libraries/md5er.cob -text
+samples/c_libraries/md5er.md -text
 samples/c_libraries/sample_ZLIB.cob -text
 samples/c_libraries/textstream.bin -text
 samples/cgiform/cgiform.cob -text
