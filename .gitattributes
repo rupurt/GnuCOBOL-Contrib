@@ -311,7 +311,14 @@ tools/CobolSQLite3/CobolSQLite3-WS.cpy -text
 tools/CobolSQLite3/CobolSQLite3-test.cob -text
 tools/CobolSQLite3/CobolSQLite3-test2.cob -text
 tools/CobolSQLite3/CobolSQLite3.cob -text
+tools/CobolSQLite3/CobolSQLite3.html -text
 tools/CobolSQLite3/README.md -text
+tools/CobolSQLite3/Test-1.cob -text
+tools/CobolSQLite3/Test-2.cob -text
+tools/CobolSQLite3/ToDo -text
+tools/CobolSQLite3/cobolmac.css -text
+tools/CobolSQLite3/genhtml -text
+tools/CobolSQLite3/html4css1.css -text
 tools/GCSORT/AUTHORS -text
 tools/GCSORT/COPYING -text
 tools/GCSORT/ChangeLog -text
