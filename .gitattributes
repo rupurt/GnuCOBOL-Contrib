@@ -308,8 +308,6 @@ tools/CobolSQLite3/COPYING -text
 tools/CobolSQLite3/ChangeLog -text
 tools/CobolSQLite3/CobolSQLite3-CSR.cpy -text
 tools/CobolSQLite3/CobolSQLite3-WS.cpy -text
-tools/CobolSQLite3/CobolSQLite3-test.cob -text
-tools/CobolSQLite3/CobolSQLite3-test2.cob -text
 tools/CobolSQLite3/CobolSQLite3.cob -text
 tools/CobolSQLite3/CobolSQLite3.html -text
 tools/CobolSQLite3/README.md -text
