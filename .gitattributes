@@ -31,11 +31,16 @@ esql/build_aux/ltmain.sh -text
 esql/build_aux/missing -text
 esql/build_aux/mkinstalldirs -text
 esql/build_windows/config.h -text
+esql/build_windows/esqlOC/esqlOC.vcproj -text
 esql/build_windows/esqlOC/esqlOC.vcxproj -text
 esql/build_windows/esqlOC/esqlOC.vcxproj.filters -text
+esql/build_windows/gnucobol-sql-vs2005-2008.sln -text
+esql/build_windows/ocsql/ocsql.vcproj -text
 esql/build_windows/ocsql/ocsql.vcxproj -text
 esql/build_windows/ocsql/ocsql.vcxproj.filters -text
 esql/build_windows/open-cobol-sql.sln -text
+esql/build_windows/version_esqlOC.rc -text
+esql/build_windows/version_ocsql.rc -text
 esql/config.h.in -text
 esql/config.sub -text
 esql/configure -text
