@@ -910,6 +910,7 @@ tools/TUI-TOOLS/GC74HELPLOAD.COB -text
 tools/TUI-TOOLS/GC74HELPVIEW.COB -text
 tools/TUI-TOOLS/GC74HELPVIEW.CPY -text
 tools/TUI-TOOLS/GC98KEYCODE.CPY -text
+tools/TUI-TOOLS/GC99BANNER.COB -text
 tools/TUI-TOOLS/GC99COPYGEN.COB -text
 tools/TUI-TOOLS/README -text
 tools/cgi4cobol/install.sh -text
