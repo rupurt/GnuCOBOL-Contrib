@@ -1,3 +1,5 @@
+at_test_win/wintest/classes
+at_test_win/wintest/compile.*
 esql/Win32
 esql/build_windows/*.suo
 esql/build_windows/UpgradeLog.XML
