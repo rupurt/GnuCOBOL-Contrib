@@ -206,6 +206,8 @@ tools/cgi4cobol/*.obj
 tools/cgi4cobol/*.pdb
 tools/cgi4cobol/*.sbr
 tools/cgi4cobol/*.so
+tools/cobjapi/src_cobol/*.h
+tools/cobjapi/src_cobol/cobjapi.c
 tools/cobjapi/src_java/*.jar
 tools/cobweb/cobweb-pipes/*.c*
 tools/cobweb/cobweb-pipes/*.dll
