@@ -936,17 +936,21 @@ tools/cobjapi/doc/refger.pdf -text
 tools/cobjapi/examples/colorpicker/Makefile -text
 tools/cobjapi/examples/colorpicker/colorpicker.cob -text
 tools/cobjapi/examples/colorpicker/screenshots/colorpicker.jpg -text
+tools/cobjapi/examples/colorpicker/win_mingw_compile_colorpicker.bat -text
 tools/cobjapi/examples/colorpicker/win_msvs_compile_colorpicker.bat -text
 tools/cobjapi/examples/digits/digits.cob -text
 tools/cobjapi/examples/digits/screenshots/digits.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples/digits/win_mingw_compile_digits.bat -text
 tools/cobjapi/examples/digits/win_msvs_compile_digits.bat -text
 tools/cobjapi/examples/drawables/Makefile -text
 tools/cobjapi/examples/drawables/drawables.cob -text
 tools/cobjapi/examples/drawables/images/twux.png -text
 tools/cobjapi/examples/drawables/screenshots/drawables.jpg -text
+tools/cobjapi/examples/drawables/win_mingw_compile_drawables.bat -text
 tools/cobjapi/examples/drawables/win_msvs_compile_drawables.bat -text
 tools/cobjapi/examples/imageviewer/imageviewer.cob -text
 tools/cobjapi/examples/imageviewer/screenshots/imageviewer.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/examples/imageviewer/win_mingw_compile_imageviewer.bat -text
 tools/cobjapi/examples/imageviewer/win_msvs_compile_imageviewer.bat -text
 tools/cobjapi/examples/mandelbrot/Makefile -text
 tools/cobjapi/examples/mandelbrot/mandelbrot1.cob -text
@@ -955,9 +959,11 @@ tools/cobjapi/examples/mandelbrot/mandelbrot3.cob -text
 tools/cobjapi/examples/mandelbrot/screenshots/mandelbrot1.jpg -text
 tools/cobjapi/examples/mandelbrot/screenshots/mandelbrot2.jpg -text
 tools/cobjapi/examples/mandelbrot/screenshots/mandelbrot3.jpg -text
+tools/cobjapi/examples/mandelbrot/win_mingw_compile_mandelbrot.bat -text
 tools/cobjapi/examples/mandelbrot/win_msvs_compile_mandelbrot.bat -text
 tools/cobjapi/examples/texteditor/screenshots/texteditor.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/examples/texteditor/texteditor.cob -text
+tools/cobjapi/examples/texteditor/win_mingw_compile_texteditor.bat -text
 tools/cobjapi/examples/texteditor/win_msvs_compile_texteditor.bat -text
 tools/cobjapi/examples/thinclient/Makefile -text
 tools/cobjapi/examples/thinclient/readme.txt -text
@@ -970,6 +976,7 @@ tools/cobjapi/examples/thinclient/screenshots/server_01.jpg -text
 tools/cobjapi/examples/thinclient/screenshots/server_02.jpg -text
 tools/cobjapi/examples/thinclient/screenshots/server_03.jpg -text
 tools/cobjapi/examples/thinclient/thinclient.cob -text
+tools/cobjapi/examples/thinclient/win_mingw_compile_thinclient.bat -text
 tools/cobjapi/examples/thinclient/win_msvs_compile_thinclient.bat -text
 tools/cobjapi/examples/video/images/ms01.gif -text
 tools/cobjapi/examples/video/images/ms02.gif -text
@@ -992,6 +999,7 @@ tools/cobjapi/examples/video/images/ms18.gif -text
 tools/cobjapi/examples/video/screenshots/video.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/examples/video/sounds/ping.au -text
 tools/cobjapi/examples/video/video.cob -text
+tools/cobjapi/examples/video/win_mingw_compile_video.bat -text
 tools/cobjapi/examples/video/win_msvs_compile_video.bat -text
 tools/cobjapi/examples_simple/alert.cob -text
 tools/cobjapi/examples_simple/borderlayout.cob -text
@@ -1094,13 +1102,16 @@ tools/cobjapi/examples_simple/simple.cob -text
 tools/cobjapi/examples_simple/simplemenu.cob -text
 tools/cobjapi/examples_simple/textfield.cob -text
 tools/cobjapi/examples_simple/vumeter.cob -text
+tools/cobjapi/examples_simple/win_mingw_compile_examples_simple.bat -text
 tools/cobjapi/examples_simple/win_msvs_compile_examples_simple.bat -text
 tools/cobjapi/examples_simple/window.cob -text
 tools/cobjapi/examples_simple/windowlistener.cob -text
+tools/cobjapi/src_c/win_mingw_compile_src_c.bat -text
 tools/cobjapi/src_c/win_msvs_compile_src_c.bat -text
 tools/cobjapi/src_cobol/cobjapi.cob -text
 tools/cobjapi/src_cobol/cobjapi.cpy -text
 tools/cobjapi/src_cobol/cobjapifn.cpy -text
+tools/cobjapi/src_cobol/win_mingw_compile_src_cobol.bat -text
 tools/cobjapi/src_cobol/win_msvs_compile_src_cobol.bat -text
 tools/cobjapi/src_java/JAPI.java -text
 tools/cobjapi/src_java/JAPI.mf -text
