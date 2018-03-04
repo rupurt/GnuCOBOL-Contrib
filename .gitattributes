@@ -1012,6 +1012,7 @@ tools/cobjapi/examples/video/win_msvs_compile_video.bat -text
 tools/cobjapi/examples_simple/alert.cob -text
 tools/cobjapi/examples_simple/borderlayout.cob -text
 tools/cobjapi/examples_simple/borderpanel.cob -text
+tools/cobjapi/examples_simple/button-keylsnr.cob -text
 tools/cobjapi/examples_simple/button.cob -text
 tools/cobjapi/examples_simple/canvas.cob -text
 tools/cobjapi/examples_simple/checkbox.cob -text
