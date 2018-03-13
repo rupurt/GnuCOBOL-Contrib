@@ -1338,6 +1338,7 @@ tools/cobjapi/SWING/examples_simple/screenshots/scrollbar.jpg -text svneol=unset
 tools/cobjapi/SWING/examples_simple/screenshots/scrollpane.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/SWING/examples_simple/screenshots/simple.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/SWING/examples_simple/screenshots/simplemenu.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/splitpane.jpg -text
 tools/cobjapi/SWING/examples_simple/screenshots/textfield.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/SWING/examples_simple/screenshots/vumeter.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/SWING/examples_simple/screenshots/window.jpg -text svneol=unset#image/jpeg
@@ -1346,6 +1347,7 @@ tools/cobjapi/SWING/examples_simple/scrollbar.cob -text
 tools/cobjapi/SWING/examples_simple/scrollpane.cob -text
 tools/cobjapi/SWING/examples_simple/simple.cob -text
 tools/cobjapi/SWING/examples_simple/simplemenu.cob -text
+tools/cobjapi/SWING/examples_simple/splitpane.cob -text
 tools/cobjapi/SWING/examples_simple/textfield.cob -text
 tools/cobjapi/SWING/examples_simple/vumeter.cob -text
 tools/cobjapi/SWING/examples_simple/win_mingw_compile_examples_simple.bat -text
