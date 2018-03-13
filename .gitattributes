@@ -1180,241 +1180,241 @@ tools/cobjapi/AWT/src_java/danger.gif -text
 tools/cobjapi/AWT/src_java/question.gif -text
 tools/cobjapi/AWT/src_java/win_compile_src_java.bat -text
 tools/cobjapi/COPYING -text
-tools/cobjapi/SWIG/doc/manual.pdf -text
-tools/cobjapi/SWIG/doc/refeng.pdf -text
-tools/cobjapi/SWIG/doc/refger.pdf -text
-tools/cobjapi/SWIG/examples/colorpicker/Makefile -text
-tools/cobjapi/SWIG/examples/colorpicker/colorpicker.cob -text
-tools/cobjapi/SWIG/examples/colorpicker/screenshots/colorpicker.jpg -text
-tools/cobjapi/SWIG/examples/colorpicker/win_mingw_compile_colorpicker.bat -text
-tools/cobjapi/SWIG/examples/colorpicker/win_msvs_compile_colorpicker.bat -text
-tools/cobjapi/SWIG/examples/digits/digits.cob -text
-tools/cobjapi/SWIG/examples/digits/screenshots/digits.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples/digits/win_mingw_compile_digits.bat -text
-tools/cobjapi/SWIG/examples/digits/win_msvs_compile_digits.bat -text
-tools/cobjapi/SWIG/examples/drawables/Makefile -text
-tools/cobjapi/SWIG/examples/drawables/drawables.cob -text
-tools/cobjapi/SWIG/examples/drawables/images/twux.png -text
-tools/cobjapi/SWIG/examples/drawables/screenshots/drawables.jpg -text
-tools/cobjapi/SWIG/examples/drawables/win_mingw_compile_drawables.bat -text
-tools/cobjapi/SWIG/examples/drawables/win_msvs_compile_drawables.bat -text
-tools/cobjapi/SWIG/examples/imageviewer/imageviewer.cob -text
-tools/cobjapi/SWIG/examples/imageviewer/screenshots/imageviewer.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples/imageviewer/win_mingw_compile_imageviewer.bat -text
-tools/cobjapi/SWIG/examples/imageviewer/win_msvs_compile_imageviewer.bat -text
-tools/cobjapi/SWIG/examples/mandelbrot/Makefile -text
-tools/cobjapi/SWIG/examples/mandelbrot/mandelbrot1.cob -text
-tools/cobjapi/SWIG/examples/mandelbrot/mandelbrot2.cob -text
-tools/cobjapi/SWIG/examples/mandelbrot/mandelbrot3.cob -text
-tools/cobjapi/SWIG/examples/mandelbrot/screenshots/mandelbrot1.jpg -text
-tools/cobjapi/SWIG/examples/mandelbrot/screenshots/mandelbrot2.jpg -text
-tools/cobjapi/SWIG/examples/mandelbrot/screenshots/mandelbrot3.jpg -text
-tools/cobjapi/SWIG/examples/mandelbrot/win_mingw_compile_mandelbrot.bat -text
-tools/cobjapi/SWIG/examples/mandelbrot/win_msvs_compile_mandelbrot.bat -text
-tools/cobjapi/SWIG/examples/texteditor/screenshots/texteditor.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples/texteditor/texteditor.cob -text
-tools/cobjapi/SWIG/examples/texteditor/win_mingw_compile_texteditor.bat -text
-tools/cobjapi/SWIG/examples/texteditor/win_msvs_compile_texteditor.bat -text
-tools/cobjapi/SWIG/examples/thinclient/Makefile -text
-tools/cobjapi/SWIG/examples/thinclient/readme.txt -text
-tools/cobjapi/SWIG/examples/thinclient/screenshots/client_01.jpg -text
-tools/cobjapi/SWIG/examples/thinclient/screenshots/client_02.jpg -text
-tools/cobjapi/SWIG/examples/thinclient/screenshots/client_03.jpg -text
-tools/cobjapi/SWIG/examples/thinclient/screenshots/client_04.jpg -text
-tools/cobjapi/SWIG/examples/thinclient/screenshots/client_05.jpg -text
-tools/cobjapi/SWIG/examples/thinclient/screenshots/server_01.jpg -text
-tools/cobjapi/SWIG/examples/thinclient/screenshots/server_02.jpg -text
-tools/cobjapi/SWIG/examples/thinclient/screenshots/server_03.jpg -text
-tools/cobjapi/SWIG/examples/thinclient/thinclient.cob -text
-tools/cobjapi/SWIG/examples/thinclient/win_mingw_compile_thinclient.bat -text
-tools/cobjapi/SWIG/examples/thinclient/win_msvs_compile_thinclient.bat -text
-tools/cobjapi/SWIG/examples/video/images/ms01.gif -text
-tools/cobjapi/SWIG/examples/video/images/ms02.gif -text
-tools/cobjapi/SWIG/examples/video/images/ms03.gif -text
-tools/cobjapi/SWIG/examples/video/images/ms04.gif -text
-tools/cobjapi/SWIG/examples/video/images/ms05.gif -text
-tools/cobjapi/SWIG/examples/video/images/ms06.gif -text
-tools/cobjapi/SWIG/examples/video/images/ms07.gif -text
-tools/cobjapi/SWIG/examples/video/images/ms08.gif -text
-tools/cobjapi/SWIG/examples/video/images/ms09.gif -text
-tools/cobjapi/SWIG/examples/video/images/ms10.gif -text
-tools/cobjapi/SWIG/examples/video/images/ms11.gif -text
-tools/cobjapi/SWIG/examples/video/images/ms12.gif -text
-tools/cobjapi/SWIG/examples/video/images/ms13.gif -text
-tools/cobjapi/SWIG/examples/video/images/ms14.gif -text
-tools/cobjapi/SWIG/examples/video/images/ms15.gif -text
-tools/cobjapi/SWIG/examples/video/images/ms16.gif -text
-tools/cobjapi/SWIG/examples/video/images/ms17.gif -text
-tools/cobjapi/SWIG/examples/video/images/ms18.gif -text
-tools/cobjapi/SWIG/examples/video/screenshots/video.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples/video/sounds/ping.au -text
-tools/cobjapi/SWIG/examples/video/video.cob -text
-tools/cobjapi/SWIG/examples/video/win_mingw_compile_video.bat -text
-tools/cobjapi/SWIG/examples/video/win_msvs_compile_video.bat -text
-tools/cobjapi/SWIG/examples_simple/alert.cob -text
-tools/cobjapi/SWIG/examples_simple/borderlayout.cob -text
-tools/cobjapi/SWIG/examples_simple/borderpanel.cob -text
-tools/cobjapi/SWIG/examples_simple/button-keylsnr.cob -text
-tools/cobjapi/SWIG/examples_simple/button.cob -text
-tools/cobjapi/SWIG/examples_simple/canvas.cob -text
-tools/cobjapi/SWIG/examples_simple/checkbox.cob -text
-tools/cobjapi/SWIG/examples_simple/choice.cob -text
-tools/cobjapi/SWIG/examples_simple/colors.cob -text
-tools/cobjapi/SWIG/examples_simple/colors1.cob -text
-tools/cobjapi/SWIG/examples_simple/componentlistener.cob -text
-tools/cobjapi/SWIG/examples_simple/cursor.cob -text
-tools/cobjapi/SWIG/examples_simple/daemon.cob -text
-tools/cobjapi/SWIG/examples_simple/dialog.cob -text
-tools/cobjapi/SWIG/examples_simple/dialogmodal.cob -text
-tools/cobjapi/SWIG/examples_simple/filedialog.cob -text
-tools/cobjapi/SWIG/examples_simple/flowlayout.cob -text
-tools/cobjapi/SWIG/examples_simple/flowsimple.cob -text
-tools/cobjapi/SWIG/examples_simple/focuslistener.cob -text
-tools/cobjapi/SWIG/examples_simple/font.cob -text
-tools/cobjapi/SWIG/examples_simple/frame.cob -text
-tools/cobjapi/SWIG/examples_simple/graphic.cob -text
-tools/cobjapi/SWIG/examples_simple/graphicbutton.cob -text
-tools/cobjapi/SWIG/examples_simple/graphiclabel.cob -text
-tools/cobjapi/SWIG/examples_simple/gridlayout.cob -text
-tools/cobjapi/SWIG/examples_simple/image.cob -text
-tools/cobjapi/SWIG/examples_simple/images/copy.gif -text
-tools/cobjapi/SWIG/examples_simple/images/cut.gif -text
-tools/cobjapi/SWIG/examples_simple/images/mandel.gif -text
-tools/cobjapi/SWIG/examples_simple/images/new.gif -text
-tools/cobjapi/SWIG/examples_simple/images/open.gif -text
-tools/cobjapi/SWIG/examples_simple/images/paste.gif -text
-tools/cobjapi/SWIG/examples_simple/images/save.gif -text
-tools/cobjapi/SWIG/examples_simple/insets.cob -text
-tools/cobjapi/SWIG/examples_simple/keylistener.cob -text
-tools/cobjapi/SWIG/examples_simple/label.cob -text
-tools/cobjapi/SWIG/examples_simple/lines.cob -text
-tools/cobjapi/SWIG/examples_simple/list.cob -text
-tools/cobjapi/SWIG/examples_simple/listmultiple.cob -text
-tools/cobjapi/SWIG/examples_simple/menu.cob -text
-tools/cobjapi/SWIG/examples_simple/mousebuttons.cob -text
-tools/cobjapi/SWIG/examples_simple/mouselistener.cob -text
-tools/cobjapi/SWIG/examples_simple/panel.cob -text
-tools/cobjapi/SWIG/examples_simple/popupmenu.cob -text
-tools/cobjapi/SWIG/examples_simple/print.cob -text
-tools/cobjapi/SWIG/examples_simple/radiobutton.cob -text
-tools/cobjapi/SWIG/examples_simple/rubberband.cob -text
-tools/cobjapi/SWIG/examples_simple/scaledimage.cob -text
-tools/cobjapi/SWIG/examples_simple/screenshots/alert.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/borderlayout.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/borderpanel.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/button.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/canvas.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/checkbox.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/choice.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/colors.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/colors1.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/componentlistener.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/cursor.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/daemon.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/dialog.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/dialogmodal.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/filedialog.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/flowlayout.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/flowsimple.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/focuslistener.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/font.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/frame.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/graphic.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/graphicbutton.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/graphiclabel.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/gridlayout.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/image.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/insets.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/keylistener.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/label.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/lines.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/list.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/listmultiple.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/menu.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/mousebuttons.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/mouselistener.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/panel.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/popupmenu.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/print.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/radiobutton.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/rubberband.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/scaledimage.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/scrollbar.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/scrollpane.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/simple.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/simplemenu.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/textfield.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/vumeter.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/window.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/screenshots/windowlistener.jpg -text svneol=unset#image/jpeg
-tools/cobjapi/SWIG/examples_simple/scrollbar.cob -text
-tools/cobjapi/SWIG/examples_simple/scrollpane.cob -text
-tools/cobjapi/SWIG/examples_simple/simple.cob -text
-tools/cobjapi/SWIG/examples_simple/simplemenu.cob -text
-tools/cobjapi/SWIG/examples_simple/textfield.cob -text
-tools/cobjapi/SWIG/examples_simple/vumeter.cob -text
-tools/cobjapi/SWIG/examples_simple/win_mingw_compile_examples_simple.bat -text
-tools/cobjapi/SWIG/examples_simple/win_msvs_compile_examples_simple.bat -text
-tools/cobjapi/SWIG/examples_simple/window.cob -text
-tools/cobjapi/SWIG/examples_simple/windowlistener.cob -text
-tools/cobjapi/SWIG/src_c/win_mingw_compile_src_c.bat -text
-tools/cobjapi/SWIG/src_c/win_msvs_compile_src_c.bat -text
-tools/cobjapi/SWIG/src_cobol/cobjapi.cob -text
-tools/cobjapi/SWIG/src_cobol/cobjapi.cpy -text
-tools/cobjapi/SWIG/src_cobol/cobjapifn.cpy -text
-tools/cobjapi/SWIG/src_cobol/win_mingw_compile_src_cobol.bat -text
-tools/cobjapi/SWIG/src_cobol/win_msvs_compile_src_cobol.bat -text
-tools/cobjapi/SWIG/src_java/JAPI.java -text
-tools/cobjapi/SWIG/src_java/JAPI.mf -text
-tools/cobjapi/SWIG/src_java/JAPI_Actionlistener.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Adjustmentlistener.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Alert.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Button.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Calls.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Canvas.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Checkbox.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Choice.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Componentlistener.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Const.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Debugwindow.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Dialog.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Errordialog.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Fixlayout.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Focuslistener.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Frame.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Graphicbutton.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Graphiclabel.java -text
-tools/cobjapi/SWIG/src_java/JAPI_HFlowlayout.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Itemlistener.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Keylistener.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Label.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Led.java -text
-tools/cobjapi/SWIG/src_java/JAPI_List.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Menu.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Menubar.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Meter.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Mouselistener.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Mousemotionlistener.java -text
-tools/cobjapi/SWIG/src_java/JAPI_MultiLineLabel.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Panel.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Progressbar.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Radiobutton.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Radiogroup.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Ruler.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Sevensegment.java -text
-tools/cobjapi/SWIG/src_java/JAPI_SocketInputStream.java -text
-tools/cobjapi/SWIG/src_java/JAPI_SocketOutputStream.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Textarea.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Textfield.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Textlistener.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Thread.java -text
-tools/cobjapi/SWIG/src_java/JAPI_VFlowlayout.java -text
-tools/cobjapi/SWIG/src_java/JAPI_ValueComponent.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Window.java -text
-tools/cobjapi/SWIG/src_java/JAPI_Windowlistener.java -text
-tools/cobjapi/SWIG/src_java/danger.gif -text
-tools/cobjapi/SWIG/src_java/question.gif -text
-tools/cobjapi/SWIG/src_java/win_compile_src_java.bat -text
+tools/cobjapi/SWING/doc/manual.pdf -text
+tools/cobjapi/SWING/doc/refeng.pdf -text
+tools/cobjapi/SWING/doc/refger.pdf -text
+tools/cobjapi/SWING/examples/colorpicker/Makefile -text
+tools/cobjapi/SWING/examples/colorpicker/colorpicker.cob -text
+tools/cobjapi/SWING/examples/colorpicker/screenshots/colorpicker.jpg -text
+tools/cobjapi/SWING/examples/colorpicker/win_mingw_compile_colorpicker.bat -text
+tools/cobjapi/SWING/examples/colorpicker/win_msvs_compile_colorpicker.bat -text
+tools/cobjapi/SWING/examples/digits/digits.cob -text
+tools/cobjapi/SWING/examples/digits/screenshots/digits.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples/digits/win_mingw_compile_digits.bat -text
+tools/cobjapi/SWING/examples/digits/win_msvs_compile_digits.bat -text
+tools/cobjapi/SWING/examples/drawables/Makefile -text
+tools/cobjapi/SWING/examples/drawables/drawables.cob -text
+tools/cobjapi/SWING/examples/drawables/images/twux.png -text
+tools/cobjapi/SWING/examples/drawables/screenshots/drawables.jpg -text
+tools/cobjapi/SWING/examples/drawables/win_mingw_compile_drawables.bat -text
+tools/cobjapi/SWING/examples/drawables/win_msvs_compile_drawables.bat -text
+tools/cobjapi/SWING/examples/imageviewer/imageviewer.cob -text
+tools/cobjapi/SWING/examples/imageviewer/screenshots/imageviewer.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples/imageviewer/win_mingw_compile_imageviewer.bat -text
+tools/cobjapi/SWING/examples/imageviewer/win_msvs_compile_imageviewer.bat -text
+tools/cobjapi/SWING/examples/mandelbrot/Makefile -text
+tools/cobjapi/SWING/examples/mandelbrot/mandelbrot1.cob -text
+tools/cobjapi/SWING/examples/mandelbrot/mandelbrot2.cob -text
+tools/cobjapi/SWING/examples/mandelbrot/mandelbrot3.cob -text
+tools/cobjapi/SWING/examples/mandelbrot/screenshots/mandelbrot1.jpg -text
+tools/cobjapi/SWING/examples/mandelbrot/screenshots/mandelbrot2.jpg -text
+tools/cobjapi/SWING/examples/mandelbrot/screenshots/mandelbrot3.jpg -text
+tools/cobjapi/SWING/examples/mandelbrot/win_mingw_compile_mandelbrot.bat -text
+tools/cobjapi/SWING/examples/mandelbrot/win_msvs_compile_mandelbrot.bat -text
+tools/cobjapi/SWING/examples/texteditor/screenshots/texteditor.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples/texteditor/texteditor.cob -text
+tools/cobjapi/SWING/examples/texteditor/win_mingw_compile_texteditor.bat -text
+tools/cobjapi/SWING/examples/texteditor/win_msvs_compile_texteditor.bat -text
+tools/cobjapi/SWING/examples/thinclient/Makefile -text
+tools/cobjapi/SWING/examples/thinclient/readme.txt -text
+tools/cobjapi/SWING/examples/thinclient/screenshots/client_01.jpg -text
+tools/cobjapi/SWING/examples/thinclient/screenshots/client_02.jpg -text
+tools/cobjapi/SWING/examples/thinclient/screenshots/client_03.jpg -text
+tools/cobjapi/SWING/examples/thinclient/screenshots/client_04.jpg -text
+tools/cobjapi/SWING/examples/thinclient/screenshots/client_05.jpg -text
+tools/cobjapi/SWING/examples/thinclient/screenshots/server_01.jpg -text
+tools/cobjapi/SWING/examples/thinclient/screenshots/server_02.jpg -text
+tools/cobjapi/SWING/examples/thinclient/screenshots/server_03.jpg -text
+tools/cobjapi/SWING/examples/thinclient/thinclient.cob -text
+tools/cobjapi/SWING/examples/thinclient/win_mingw_compile_thinclient.bat -text
+tools/cobjapi/SWING/examples/thinclient/win_msvs_compile_thinclient.bat -text
+tools/cobjapi/SWING/examples/video/images/ms01.gif -text
+tools/cobjapi/SWING/examples/video/images/ms02.gif -text
+tools/cobjapi/SWING/examples/video/images/ms03.gif -text
+tools/cobjapi/SWING/examples/video/images/ms04.gif -text
+tools/cobjapi/SWING/examples/video/images/ms05.gif -text
+tools/cobjapi/SWING/examples/video/images/ms06.gif -text
+tools/cobjapi/SWING/examples/video/images/ms07.gif -text
+tools/cobjapi/SWING/examples/video/images/ms08.gif -text
+tools/cobjapi/SWING/examples/video/images/ms09.gif -text
+tools/cobjapi/SWING/examples/video/images/ms10.gif -text
+tools/cobjapi/SWING/examples/video/images/ms11.gif -text
+tools/cobjapi/SWING/examples/video/images/ms12.gif -text
+tools/cobjapi/SWING/examples/video/images/ms13.gif -text
+tools/cobjapi/SWING/examples/video/images/ms14.gif -text
+tools/cobjapi/SWING/examples/video/images/ms15.gif -text
+tools/cobjapi/SWING/examples/video/images/ms16.gif -text
+tools/cobjapi/SWING/examples/video/images/ms17.gif -text
+tools/cobjapi/SWING/examples/video/images/ms18.gif -text
+tools/cobjapi/SWING/examples/video/screenshots/video.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples/video/sounds/ping.au -text
+tools/cobjapi/SWING/examples/video/video.cob -text
+tools/cobjapi/SWING/examples/video/win_mingw_compile_video.bat -text
+tools/cobjapi/SWING/examples/video/win_msvs_compile_video.bat -text
+tools/cobjapi/SWING/examples_simple/alert.cob -text
+tools/cobjapi/SWING/examples_simple/borderlayout.cob -text
+tools/cobjapi/SWING/examples_simple/borderpanel.cob -text
+tools/cobjapi/SWING/examples_simple/button-keylsnr.cob -text
+tools/cobjapi/SWING/examples_simple/button.cob -text
+tools/cobjapi/SWING/examples_simple/canvas.cob -text
+tools/cobjapi/SWING/examples_simple/checkbox.cob -text
+tools/cobjapi/SWING/examples_simple/choice.cob -text
+tools/cobjapi/SWING/examples_simple/colors.cob -text
+tools/cobjapi/SWING/examples_simple/colors1.cob -text
+tools/cobjapi/SWING/examples_simple/componentlistener.cob -text
+tools/cobjapi/SWING/examples_simple/cursor.cob -text
+tools/cobjapi/SWING/examples_simple/daemon.cob -text
+tools/cobjapi/SWING/examples_simple/dialog.cob -text
+tools/cobjapi/SWING/examples_simple/dialogmodal.cob -text
+tools/cobjapi/SWING/examples_simple/filedialog.cob -text
+tools/cobjapi/SWING/examples_simple/flowlayout.cob -text
+tools/cobjapi/SWING/examples_simple/flowsimple.cob -text
+tools/cobjapi/SWING/examples_simple/focuslistener.cob -text
+tools/cobjapi/SWING/examples_simple/font.cob -text
+tools/cobjapi/SWING/examples_simple/frame.cob -text
+tools/cobjapi/SWING/examples_simple/graphic.cob -text
+tools/cobjapi/SWING/examples_simple/graphicbutton.cob -text
+tools/cobjapi/SWING/examples_simple/graphiclabel.cob -text
+tools/cobjapi/SWING/examples_simple/gridlayout.cob -text
+tools/cobjapi/SWING/examples_simple/image.cob -text
+tools/cobjapi/SWING/examples_simple/images/copy.gif -text
+tools/cobjapi/SWING/examples_simple/images/cut.gif -text
+tools/cobjapi/SWING/examples_simple/images/mandel.gif -text
+tools/cobjapi/SWING/examples_simple/images/new.gif -text
+tools/cobjapi/SWING/examples_simple/images/open.gif -text
+tools/cobjapi/SWING/examples_simple/images/paste.gif -text
+tools/cobjapi/SWING/examples_simple/images/save.gif -text
+tools/cobjapi/SWING/examples_simple/insets.cob -text
+tools/cobjapi/SWING/examples_simple/keylistener.cob -text
+tools/cobjapi/SWING/examples_simple/label.cob -text
+tools/cobjapi/SWING/examples_simple/lines.cob -text
+tools/cobjapi/SWING/examples_simple/list.cob -text
+tools/cobjapi/SWING/examples_simple/listmultiple.cob -text
+tools/cobjapi/SWING/examples_simple/menu.cob -text
+tools/cobjapi/SWING/examples_simple/mousebuttons.cob -text
+tools/cobjapi/SWING/examples_simple/mouselistener.cob -text
+tools/cobjapi/SWING/examples_simple/panel.cob -text
+tools/cobjapi/SWING/examples_simple/popupmenu.cob -text
+tools/cobjapi/SWING/examples_simple/print.cob -text
+tools/cobjapi/SWING/examples_simple/radiobutton.cob -text
+tools/cobjapi/SWING/examples_simple/rubberband.cob -text
+tools/cobjapi/SWING/examples_simple/scaledimage.cob -text
+tools/cobjapi/SWING/examples_simple/screenshots/alert.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/borderlayout.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/borderpanel.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/button.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/canvas.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/checkbox.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/choice.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/colors.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/colors1.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/componentlistener.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/cursor.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/daemon.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/dialog.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/dialogmodal.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/filedialog.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/flowlayout.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/flowsimple.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/focuslistener.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/font.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/frame.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/graphic.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/graphicbutton.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/graphiclabel.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/gridlayout.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/image.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/insets.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/keylistener.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/label.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/lines.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/list.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/listmultiple.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/menu.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/mousebuttons.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/mouselistener.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/panel.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/popupmenu.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/print.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/radiobutton.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/rubberband.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/scaledimage.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/scrollbar.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/scrollpane.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/simple.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/simplemenu.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/textfield.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/vumeter.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/window.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/windowlistener.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/scrollbar.cob -text
+tools/cobjapi/SWING/examples_simple/scrollpane.cob -text
+tools/cobjapi/SWING/examples_simple/simple.cob -text
+tools/cobjapi/SWING/examples_simple/simplemenu.cob -text
+tools/cobjapi/SWING/examples_simple/textfield.cob -text
+tools/cobjapi/SWING/examples_simple/vumeter.cob -text
+tools/cobjapi/SWING/examples_simple/win_mingw_compile_examples_simple.bat -text
+tools/cobjapi/SWING/examples_simple/win_msvs_compile_examples_simple.bat -text
+tools/cobjapi/SWING/examples_simple/window.cob -text
+tools/cobjapi/SWING/examples_simple/windowlistener.cob -text
+tools/cobjapi/SWING/src_c/win_mingw_compile_src_c.bat -text
+tools/cobjapi/SWING/src_c/win_msvs_compile_src_c.bat -text
+tools/cobjapi/SWING/src_cobol/cobjapi.cob -text
+tools/cobjapi/SWING/src_cobol/cobjapi.cpy -text
+tools/cobjapi/SWING/src_cobol/cobjapifn.cpy -text
+tools/cobjapi/SWING/src_cobol/win_mingw_compile_src_cobol.bat -text
+tools/cobjapi/SWING/src_cobol/win_msvs_compile_src_cobol.bat -text
+tools/cobjapi/SWING/src_java/JAPI.java -text
+tools/cobjapi/SWING/src_java/JAPI.mf -text
+tools/cobjapi/SWING/src_java/JAPI_Actionlistener.java -text
+tools/cobjapi/SWING/src_java/JAPI_Adjustmentlistener.java -text
+tools/cobjapi/SWING/src_java/JAPI_Alert.java -text
+tools/cobjapi/SWING/src_java/JAPI_Button.java -text
+tools/cobjapi/SWING/src_java/JAPI_Calls.java -text
+tools/cobjapi/SWING/src_java/JAPI_Canvas.java -text
+tools/cobjapi/SWING/src_java/JAPI_Checkbox.java -text
+tools/cobjapi/SWING/src_java/JAPI_Choice.java -text
+tools/cobjapi/SWING/src_java/JAPI_Componentlistener.java -text
+tools/cobjapi/SWING/src_java/JAPI_Const.java -text
+tools/cobjapi/SWING/src_java/JAPI_Debugwindow.java -text
+tools/cobjapi/SWING/src_java/JAPI_Dialog.java -text
+tools/cobjapi/SWING/src_java/JAPI_Errordialog.java -text
+tools/cobjapi/SWING/src_java/JAPI_Fixlayout.java -text
+tools/cobjapi/SWING/src_java/JAPI_Focuslistener.java -text
+tools/cobjapi/SWING/src_java/JAPI_Frame.java -text
+tools/cobjapi/SWING/src_java/JAPI_Graphicbutton.java -text
+tools/cobjapi/SWING/src_java/JAPI_Graphiclabel.java -text
+tools/cobjapi/SWING/src_java/JAPI_HFlowlayout.java -text
+tools/cobjapi/SWING/src_java/JAPI_Itemlistener.java -text
+tools/cobjapi/SWING/src_java/JAPI_Keylistener.java -text
+tools/cobjapi/SWING/src_java/JAPI_Label.java -text
+tools/cobjapi/SWING/src_java/JAPI_Led.java -text
+tools/cobjapi/SWING/src_java/JAPI_List.java -text
+tools/cobjapi/SWING/src_java/JAPI_Menu.java -text
+tools/cobjapi/SWING/src_java/JAPI_Menubar.java -text
+tools/cobjapi/SWING/src_java/JAPI_Meter.java -text
+tools/cobjapi/SWING/src_java/JAPI_Mouselistener.java -text
+tools/cobjapi/SWING/src_java/JAPI_Mousemotionlistener.java -text
+tools/cobjapi/SWING/src_java/JAPI_MultiLineLabel.java -text
+tools/cobjapi/SWING/src_java/JAPI_Panel.java -text
+tools/cobjapi/SWING/src_java/JAPI_Progressbar.java -text
+tools/cobjapi/SWING/src_java/JAPI_Radiobutton.java -text
+tools/cobjapi/SWING/src_java/JAPI_Radiogroup.java -text
+tools/cobjapi/SWING/src_java/JAPI_Ruler.java -text
+tools/cobjapi/SWING/src_java/JAPI_Sevensegment.java -text
+tools/cobjapi/SWING/src_java/JAPI_SocketInputStream.java -text
+tools/cobjapi/SWING/src_java/JAPI_SocketOutputStream.java -text
+tools/cobjapi/SWING/src_java/JAPI_Textarea.java -text
+tools/cobjapi/SWING/src_java/JAPI_Textfield.java -text
+tools/cobjapi/SWING/src_java/JAPI_Textlistener.java -text
+tools/cobjapi/SWING/src_java/JAPI_Thread.java -text
+tools/cobjapi/SWING/src_java/JAPI_VFlowlayout.java -text
+tools/cobjapi/SWING/src_java/JAPI_ValueComponent.java -text
+tools/cobjapi/SWING/src_java/JAPI_Window.java -text
+tools/cobjapi/SWING/src_java/JAPI_Windowlistener.java -text
+tools/cobjapi/SWING/src_java/danger.gif -text
+tools/cobjapi/SWING/src_java/question.gif -text
+tools/cobjapi/SWING/src_java/win_compile_src_java.bat -text
 tools/cobolmac/CONTENTS -text
 tools/cobolmac/COPYING -text
 tools/cobolmac/ChangeLog -text

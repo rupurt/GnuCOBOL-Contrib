@@ -209,9 +209,9 @@ tools/cgi4cobol/*.so
 tools/cobjapi/AWT/src_cobol/*.h
 tools/cobjapi/AWT/src_cobol/cobjapi.c
 tools/cobjapi/AWT/src_java/*.jar
-tools/cobjapi/SWIG/src_cobol/*.h
-tools/cobjapi/SWIG/src_cobol/cobjapi.c
-tools/cobjapi/SWIG/src_java/*.jar
+tools/cobjapi/SWING/src_cobol/*.h
+tools/cobjapi/SWING/src_cobol/cobjapi.c
+tools/cobjapi/SWING/src_java/*.jar
 tools/cobweb/cobweb-pipes/*.c*
 tools/cobweb/cobweb-pipes/*.dll
 tools/cobweb/cobweb-pipes/*.exe
