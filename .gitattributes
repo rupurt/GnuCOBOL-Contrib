@@ -224,9 +224,6 @@ samples/games/twentyfour/twentyfour.cob -text
 samples/games/wumpus/dodecahedron.jpeg -text svneol=unset#image/jpeg
 samples/games/wumpus/readme.txt -text
 samples/games/wumpus/wumpus.cob -text
-samples/imgscale/Makefile -text
-samples/imgscale/imgscale-test.cob -text
-samples/imgscale/imgscale.c -text
 samples/imgscale/rainbow.jpg -text
 samples/imgscale/readme.txt -text
 samples/prime_machine/prime_machine.cob -text
