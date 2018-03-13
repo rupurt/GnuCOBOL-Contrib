@@ -1118,6 +1118,7 @@ tools/cobjapi/AWT/examples_simple/win_mingw_compile_examples_simple.bat -text
 tools/cobjapi/AWT/examples_simple/win_msvs_compile_examples_simple.bat -text
 tools/cobjapi/AWT/examples_simple/window.cob -text
 tools/cobjapi/AWT/examples_simple/windowlistener.cob -text
+tools/cobjapi/AWT/readme.txt -text
 tools/cobjapi/AWT/src_c/win_mingw_compile_src_c.bat -text
 tools/cobjapi/AWT/src_c/win_msvs_compile_src_c.bat -text
 tools/cobjapi/AWT/src_cobol/cobjapi.cob -text
