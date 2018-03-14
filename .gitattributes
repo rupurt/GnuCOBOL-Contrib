@@ -1246,6 +1246,7 @@ tools/cobjapi/SWING/examples/video/sounds/ping.au -text
 tools/cobjapi/SWING/examples/video/video.cob -text
 tools/cobjapi/SWING/examples/video/win_mingw_compile_video.bat -text
 tools/cobjapi/SWING/examples/video/win_msvs_compile_video.bat -text
+tools/cobjapi/SWING/examples_simple/2frames.cob -text
 tools/cobjapi/SWING/examples_simple/alert.cob -text
 tools/cobjapi/SWING/examples_simple/borderlayout.cob -text
 tools/cobjapi/SWING/examples_simple/borderpanel.cob -text
@@ -1294,6 +1295,7 @@ tools/cobjapi/SWING/examples_simple/print.cob -text
 tools/cobjapi/SWING/examples_simple/radiobutton.cob -text
 tools/cobjapi/SWING/examples_simple/rubberband.cob -text
 tools/cobjapi/SWING/examples_simple/scaledimage.cob -text
+tools/cobjapi/SWING/examples_simple/screenshots/2frames.jpg -text
 tools/cobjapi/SWING/examples_simple/screenshots/alert.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/SWING/examples_simple/screenshots/borderlayout.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/SWING/examples_simple/screenshots/borderpanel.jpg -text svneol=unset#image/jpeg
