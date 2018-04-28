@@ -923,6 +923,7 @@ tools/TUI-TOOLS/GC98KEYCODE.CPY -text
 tools/TUI-TOOLS/GC99BANNER.COB -text
 tools/TUI-TOOLS/GC99COPYGEN.COB -text
 tools/TUI-TOOLS/README -text
+tools/TUI-UTILITIES/GC99COPYGEN.COB -text
 tools/cgi4cobol/install.sh -text
 tools/cgi4cobol/libcobcgi.c eol=lf
 tools/cgi4cobol/libcobcgi.h eol=lf
