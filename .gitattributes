@@ -200,12 +200,14 @@ samples/cgiupload/win_compile.bat -text
 samples/cobdes/cobdes.cob -text
 samples/cobdes/testdes.cob -text
 samples/cobsha3/KECCAK.cob -text
+samples/cobsha3/SESSION-ID.cob -text
 samples/cobsha3/SHA3-224.cob -text
 samples/cobsha3/SHA3-256.cob -text
 samples/cobsha3/SHA3-384.cob -text
 samples/cobsha3/SHA3-512.cob -text
 samples/cobsha3/SHAKE128.cob -text
 samples/cobsha3/SHAKE256.cob -text
+samples/cobsha3/TEST-SESSION-ID.cob -text
 samples/cobsha3/TESTSHA3.cob -text
 samples/cobsha3/makefile -text
 samples/cobsha3/readme.txt -text
