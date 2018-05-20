@@ -211,6 +211,7 @@ samples/cobsha3/TEST-SESSION-ID.cob -text
 samples/cobsha3/TESTSHA3.cob -text
 samples/cobsha3/makefile -text
 samples/cobsha3/readme.txt -text
+samples/cobsha3/screenshots/TEST-SESSION-ID.jpg -text
 samples/cobsha3/win_compile.bat -text
 samples/colours/gnucobol-colours.cob -text
 samples/dasize/dasize.cob -text
