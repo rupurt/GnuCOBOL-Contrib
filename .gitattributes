@@ -1921,6 +1921,9 @@ tools/gcstats/gcstats.bat -text
 tools/gctest/Makefile -text
 tools/gctest/README -text
 tools/gctest/gctest.c -text
+tools/gcv/README.md -text
+tools/gcv/commands.sed -text
+tools/gcv/gcv.c -text
 tools/ocic-gui/OCiC-Mono.sln -text
 tools/ocic-gui/OCiC-Mono/AssemblyInfo.cs -text
 tools/ocic-gui/OCiC-Mono/Libraries/MessageBox.cs -text
