@@ -406,6 +406,7 @@ tools/CobolSQLite3/COPYING -text
 tools/CobolSQLite3/ChangeLog -text
 tools/CobolSQLite3/CobolSQLite3-CSR.cpy -text
 tools/CobolSQLite3/CobolSQLite3-WS.cpy -text
+tools/CobolSQLite3/CobolSQLite3-test.cob -text
 tools/CobolSQLite3/CobolSQLite3.cob -text
 tools/CobolSQLite3/CobolSQLite3.html -text
 tools/CobolSQLite3/README.md -text
@@ -1754,6 +1755,7 @@ tools/cobolmac/Macros/README -text
 tools/cobolmac/Macros/sql3i4gc.inc -text
 tools/cobolmac/README -text
 tools/cobolmac/ToDo -text
+tools/cobolmac/cobolmac -text
 tools/cobolmac/cobolmac.cob -text
 tools/cobolmac/cobolmac.css -text
 tools/cobolmac/cobolmac.html -text
@@ -1919,6 +1921,9 @@ tools/gcstats/gcstats.bat -text
 tools/gctest/Makefile -text
 tools/gctest/README -text
 tools/gctest/gctest.c -text
+tools/gcv/README.md -text
+tools/gcv/commands.sed -text
+tools/gcv/gcv.c -text
 tools/ocic-gui/OCiC-Mono.sln -text
 tools/ocic-gui/OCiC-Mono/AssemblyInfo.cs -text
 tools/ocic-gui/OCiC-Mono/Libraries/MessageBox.cs -text
