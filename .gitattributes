@@ -1145,6 +1145,7 @@ tools/cobjapi/AWT/examples_simple/print.cob -text
 tools/cobjapi/AWT/examples_simple/radiobutton.cob -text
 tools/cobjapi/AWT/examples_simple/rubberband.cob -text
 tools/cobjapi/AWT/examples_simple/scaledimage.cob -text
+tools/cobjapi/AWT/examples_simple/screenshots/Readme.MD svneol=native#text/markdown
 tools/cobjapi/AWT/examples_simple/screenshots/alert.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/AWT/examples_simple/screenshots/borderlayout.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/AWT/examples_simple/screenshots/borderpanel.jpg -text svneol=unset#image/jpeg
