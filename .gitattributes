@@ -1097,6 +1097,7 @@ tools/cobjapi/AWT/examples/video/sounds/ping.au -text
 tools/cobjapi/AWT/examples/video/video.cob -text
 tools/cobjapi/AWT/examples/video/win_mingw_compile_video.bat -text
 tools/cobjapi/AWT/examples/video/win_msvs_compile_video.bat -text
+tools/cobjapi/AWT/examples_simple/2frames.cob -text
 tools/cobjapi/AWT/examples_simple/alert.cob -text
 tools/cobjapi/AWT/examples_simple/borderlayout.cob -text
 tools/cobjapi/AWT/examples_simple/borderpanel.cob -text
