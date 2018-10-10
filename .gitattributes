@@ -1057,6 +1057,7 @@ tools/cobjapi/AWT/examples/mandelbrot/screenshots/mandelbrot2.jpg -text
 tools/cobjapi/AWT/examples/mandelbrot/screenshots/mandelbrot3.jpg -text
 tools/cobjapi/AWT/examples/mandelbrot/win_mingw_compile_mandelbrot.bat -text
 tools/cobjapi/AWT/examples/mandelbrot/win_msvs_compile_mandelbrot.bat -text
+tools/cobjapi/AWT/examples/screenshots.html svneol=native#text/markdown
 tools/cobjapi/AWT/examples/texteditor/screenshots/texteditor.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/AWT/examples/texteditor/texteditor.cob -text
 tools/cobjapi/AWT/examples/texteditor/win_mingw_compile_texteditor.bat -text
@@ -1146,7 +1147,7 @@ tools/cobjapi/AWT/examples_simple/print.cob -text
 tools/cobjapi/AWT/examples_simple/radiobutton.cob -text
 tools/cobjapi/AWT/examples_simple/rubberband.cob -text
 tools/cobjapi/AWT/examples_simple/scaledimage.cob -text
-tools/cobjapi/AWT/examples_simple/screenshots/Readme.MD svneol=native#text/markdown
+tools/cobjapi/AWT/examples_simple/screenshots.html svneol=native#text/markdown
 tools/cobjapi/AWT/examples_simple/screenshots/alert.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/AWT/examples_simple/screenshots/borderlayout.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/AWT/examples_simple/screenshots/borderpanel.jpg -text svneol=unset#image/jpeg
@@ -1293,6 +1294,7 @@ tools/cobjapi/SWING/examples/mandelbrot/screenshots/mandelbrot2.jpg -text
 tools/cobjapi/SWING/examples/mandelbrot/screenshots/mandelbrot3.jpg -text
 tools/cobjapi/SWING/examples/mandelbrot/win_mingw_compile_mandelbrot.bat -text
 tools/cobjapi/SWING/examples/mandelbrot/win_msvs_compile_mandelbrot.bat -text
+tools/cobjapi/SWING/examples/screenshots.html svneol=native#text/markdown
 tools/cobjapi/SWING/examples/texteditor/screenshots/texteditor.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/SWING/examples/texteditor/texteditor.cob -text
 tools/cobjapi/SWING/examples/texteditor/win_mingw_compile_texteditor.bat -text
@@ -1382,6 +1384,7 @@ tools/cobjapi/SWING/examples_simple/print.cob -text
 tools/cobjapi/SWING/examples_simple/radiobutton.cob -text
 tools/cobjapi/SWING/examples_simple/rubberband.cob -text
 tools/cobjapi/SWING/examples_simple/scaledimage.cob -text
+tools/cobjapi/SWING/examples_simple/screenshots.html svneol=native#text/markdown
 tools/cobjapi/SWING/examples_simple/screenshots/2frames.jpg -text
 tools/cobjapi/SWING/examples_simple/screenshots/alert.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/SWING/examples_simple/screenshots/borderlayout.jpg -text svneol=unset#image/jpeg
