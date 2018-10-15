@@ -293,6 +293,13 @@ samples/eliza/README.txt -text
 samples/eliza/eliza.cbl -text
 samples/eliza/eliza.lst -text
 samples/games/2048/2048-GAME.COB -text
+samples/games/game-of-life/124p37-animation.gif -text
+samples/games/game-of-life/README.md -text
+samples/games/game-of-life/gol.cbl -text
+samples/games/game-of-life/maps/124p37.txt -text
+samples/games/game-of-life/maps/gun.txt -text
+samples/games/game-of-life/maps/loops.txt -text
+samples/games/game-of-life/maps/thunderbird.txt -text
 samples/games/star_trek/README -text
 samples/games/star_trek/ctrek.cob -text
 samples/games/twentyfour/README.md -text
