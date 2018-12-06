@@ -1869,6 +1869,20 @@ tools/cobweb/cobodoc/install-sh -text
 tools/cobweb/cobodoc/makefile.am -text
 tools/cobweb/cobodoc/makefile.in -text
 tools/cobweb/cobodoc/missing -text
+tools/cobweb/cobweb-agar/Makefile -text
+tools/cobweb/cobweb-agar/README.md -text
+tools/cobweb/cobweb-agar/cobweb-agar-repository.cpy -text
+tools/cobweb/cobweb-agar/cobweb-agar.cob -text
+tools/cobweb/cobweb-agar/commands.sed -text
+tools/cobweb/cobweb-agar/gcv.c -text
+tools/cobweb/cobweb-agar/images/Grace-Hopper-office-by-Lynn-Gilbert.jpg -text svneol=unset#image/jpeg
+tools/cobweb/cobweb-agar/images/Logo.png -text svneol=unset#image/png
+tools/cobweb/cobweb-agar/images/kword.png -text svneol=unset#image/png
+tools/cobweb/cobweb-agar/images/linux-symbol-hi.png -text svneol=unset#image/png
+tools/cobweb/cobweb-agar/images/preferences-desktop-display-color-64x64.png -text svneol=unset#image/png
+tools/cobweb/cobweb-agar/images/preferences-desktop-display-color.png -text svneol=unset#image/png
+tools/cobweb/cobweb-agar/libagar.cpy -text
+tools/cobweb/cobweb-agar/libagar.gcv -text
 tools/cobweb/cobweb-gtk/AUTHORS -text
 tools/cobweb/cobweb-gtk/COPYING -text
 tools/cobweb/cobweb-gtk/ChangeLog -text
