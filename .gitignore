@@ -212,6 +212,13 @@ tools/cobjapi/AWT/src_java/*.jar
 tools/cobjapi/SWING/src_cobol/*.h
 tools/cobjapi/SWING/src_cobol/cobjapi.c
 tools/cobjapi/SWING/src_java/*.jar
+tools/cobweb/cobweb-agar/*.dll
+tools/cobweb/cobweb-agar/*.exe
+tools/cobweb/cobweb-agar/*.o
+tools/cobweb/cobweb-agar/*.obj
+tools/cobweb/cobweb-agar/*.so
+tools/cobweb/cobweb-agar/gcv
+tools/cobweb/cobweb-agar/libagar.cpy
 tools/cobweb/cobweb-pipes/*.c*
 tools/cobweb/cobweb-pipes/*.dll
 tools/cobweb/cobweb-pipes/*.exe
