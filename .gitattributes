@@ -1873,6 +1873,7 @@ tools/cobweb/cobweb-agar/Makefile -text
 tools/cobweb/cobweb-agar/README.md -text
 tools/cobweb/cobweb-agar/cobweb-agar-repository.cpy -text
 tools/cobweb/cobweb-agar/cobweb-agar.cob -text
+tools/cobweb/cobweb-agar/cobweb-agar.rst -text
 tools/cobweb/cobweb-agar/commands.sed -text
 tools/cobweb/cobweb-agar/gcv.c -text
 tools/cobweb/cobweb-agar/images/Grace-Hopper-office-by-Lynn-Gilbert.jpg -text svneol=unset#image/jpeg
