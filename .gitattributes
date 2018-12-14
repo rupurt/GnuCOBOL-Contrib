@@ -1878,9 +1878,12 @@ tools/cobweb/cobweb-agar/cobweb-agar-repository.cpy -text
 tools/cobweb/cobweb-agar/cobweb-agar.cob -text
 tools/cobweb/cobweb-agar/cobweb-agar.rst -text
 tools/cobweb/cobweb-agar/commands.sed -text
+tools/cobweb/cobweb-agar/filename.cob -text
 tools/cobweb/cobweb-agar/gcv.c -text
+tools/cobweb/cobweb-agar/gnucobol.css -text
 tools/cobweb/cobweb-agar/images/Grace-Hopper-office-by-Lynn-Gilbert.jpg -text svneol=unset#image/jpeg
 tools/cobweb/cobweb-agar/images/Logo.png -text svneol=unset#image/png
+tools/cobweb/cobweb-agar/images/agar.bmp -text
 tools/cobweb/cobweb-agar/images/kword.png -text svneol=unset#image/png
 tools/cobweb/cobweb-agar/images/linux-symbol-hi.png -text svneol=unset#image/png
 tools/cobweb/cobweb-agar/images/preferences-desktop-display-color-64x64.png -text svneol=unset#image/png
