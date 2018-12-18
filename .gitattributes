@@ -287,6 +287,11 @@ samples/cobsha3/readme.txt -text
 samples/cobsha3/screenshots/TEST-SESSION-ID.jpg -text
 samples/cobsha3/win_compile.bat -text
 samples/colours/gnucobol-colours.cob -text
+samples/cookie/COOKIE-TEST.cob -text
+samples/cookie/COOKIE.cob -text
+samples/cookie/Makefile -text
+samples/cookie/readme.txt -text
+samples/cookie/screenshots/cookie-test_01.jpg -text
 samples/dasize/dasize.cob -text
 samples/dasize/readme.txt -text
 samples/eliza/README.txt -text
