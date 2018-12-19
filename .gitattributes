@@ -1951,13 +1951,11 @@ tools/dectrans/dectrans.pdf -text
 tools/dectrans/documentation_license.pdf -text
 tools/dectrans/examples.zip -text
 tools/dectrans/readme -text
-tools/flightlog/Airfields/EG_AD_1_3_en_2018-09-13.pdf -text
 tools/flightlog/Airfields/List_of_airports_by_ICAO_code__C.pdf -text
 tools/flightlog/Airfields/List_of_airports_by_ICAO_code__E.pdf -text
 tools/flightlog/Airfields/List_of_airports_by_ICAO_code__G.pdf -text
 tools/flightlog/Airfields/List_of_airports_by_ICAO_code__K.pdf -text svneol=unset#unset
 tools/flightlog/Airfields/List_of_airports_by_ICAO_code__L.pdf -text
-tools/flightlog/Airfields/List_of_airports_in_the_United_Kingdom_and_the_British_Crown_Dependencies.pdf -text
 tools/flightlog/Changelog -text
 tools/flightlog/Copying.pdf -text
 tools/flightlog/Flightlog.pdf -text
