@@ -1959,7 +1959,10 @@ tools/flightlog/Airfields/List_of_airports_by_ICAO_code__K.pdf -text svneol=unse
 tools/flightlog/Airfields/List_of_airports_by_ICAO_code__L.pdf -text
 tools/flightlog/Airfields/List_of_airports_in_the_United_Kingdom_and_the_British_Crown_Dependencies.pdf -text
 tools/flightlog/Changelog -text
+tools/flightlog/Copying.pdf -text
 tools/flightlog/Flightlog.pdf -text
+tools/flightlog/Fltlog-2.01.44.tar.gz -text
+tools/flightlog/Fltlog-2.01.44.zip -text
 tools/flightlog/README -text
 tools/flightlog/flightlog.cbl -text
 tools/flightlog/prtpdf -text
