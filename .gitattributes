@@ -1962,6 +1962,8 @@ tools/flightlog/Flightlog.pdf -text
 tools/flightlog/Fltlog-2.01.44.tar.gz -text
 tools/flightlog/Fltlog-2.01.44.zip -text
 tools/flightlog/README -text
+tools/flightlog/README.1ST -text
+tools/flightlog/UPDATE -text
 tools/flightlog/flightlog.cbl -text
 tools/flightlog/prtpdf -text
 tools/flightlog/prtpdf.sh-A4 -text
