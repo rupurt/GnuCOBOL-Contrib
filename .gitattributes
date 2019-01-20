@@ -1970,6 +1970,7 @@ tools/flightlog/flightlog.cbl -text
 tools/flightlog/prtpdf -text
 tools/flightlog/prtpdf.sh-A4 -text
 tools/flightlog/prtpdf.sh-Letter -text
+tools/flightlog/readme -text
 tools/gcstats/Makefile -text
 tools/gcstats/README -text
 tools/gcstats/gcstats.bat -text
