@@ -340,10 +340,7 @@ samples/prothsearch/win_mingw32_compile.bat -text
 samples/socket/COPYING -text
 samples/socket/README -text
 samples/socket/RESTclient.cbl -text
-samples/socket/changeformat.cbl -text
 samples/socket/compileall -text
-samples/socket/compileallfixed -text
-samples/socket/compileallfree -text
 samples/socket/connecttoserver.cbl -text
 samples/socket/errnomessage.cbl -text
 samples/socket/get_errno.c -text
