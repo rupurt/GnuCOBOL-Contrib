@@ -936,7 +936,6 @@ tools/JC-SQL-Precompiler/mysql-procedures.cpy -text
 tools/JC-SQL-Precompiler/mysql-variables.cpy -text
 tools/JC-SQL-Precompiler/prei.scb -text
 tools/JC-SQL-Precompiler/preo.cbl -text
-tools/JC-SQL-Precompiler/presql.pdf -text
 tools/JC-SQL-Precompiler/presql2.cbl -text
 tools/JC-SQL-Precompiler/presql2.param -text
 tools/JC-SQL-Precompiler/presql2.pdf -text
