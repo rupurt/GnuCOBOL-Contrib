@@ -2020,11 +2020,9 @@ tools/ocsort/sortfield.c -text
 tools/ocsort/sortfield.h -text
 tools/ocsort/utils.c -text
 tools/ocsort/utils.h -text
-tools/printcbl/COPYING.pdf -text
 tools/printcbl/Changelog -text
 tools/printcbl/Copying.pdf -text
 tools/printcbl/Documentation_License.pdf -text
 tools/printcbl/README -text
-tools/printcbl/documentation_license.pdf -text
 tools/printcbl/printcbl.cbl -text
 tools/printcbl/printcbl.pdf -text
