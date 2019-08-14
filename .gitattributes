@@ -2037,6 +2037,8 @@ tools/pipEdit/macros/t -text
 tools/pipEdit/macros/v -text
 tools/pipEdit/pe eol=lf
 tools/pipEdit/pipEdit.doc -text
+tools/pipEdit/pipEdit_User_Guide.odt -text
+tools/pipEdit/pipEdit_User_Guide.pdf -text
 tools/pipEdit/pipcurses.c -text
 tools/pipEdit/pipedit.c -text
 tools/pipEdit/pipedit.cfg -text
