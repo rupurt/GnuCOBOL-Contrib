@@ -73,8 +73,8 @@ esql/ocsql/ocsql2.cpp -text
 ipc/CBL_OC_SOCKET/COPYING.LESSER -text
 ipc/CBL_OC_SOCKET/README.txt -text
 ipc/CBL_OC_SOCKET/build.sh -text
-ipc/CBL_OC_SOCKET/build_windows/vc8/CBL_OC_SOCKET.sln -text
-ipc/CBL_OC_SOCKET/build_windows/vc8/CBL_OC_SOCKET.vcproj -text
+ipc/CBL_OC_SOCKET/build_windows/vc8/CBL_GC_SOCKET.sln -text
+ipc/CBL_OC_SOCKET/build_windows/vc8/CBL_GC_SOCKET.vcproj -text
 ipc/CBL_OC_SOCKET/cob_socket.cpp -text
 ipc/CBL_OC_SOCKET/cob_socket.h -text
 ipc/CBL_OC_SOCKET/documentation_de.odt -text
