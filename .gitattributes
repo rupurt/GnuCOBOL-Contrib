@@ -1962,6 +1962,7 @@ tools/flightlog/Airfields/List_of_airports_by_ICAO_code__K.pdf -text svneol=unse
 tools/flightlog/Airfields/List_of_airports_by_ICAO_code__L.pdf -text
 tools/flightlog/Changelog -text
 tools/flightlog/Copying.pdf -text
+tools/flightlog/Documentation_License.pdf -text
 tools/flightlog/README -text
 tools/flightlog/README.1ST -text
 tools/flightlog/UPDATE -text
