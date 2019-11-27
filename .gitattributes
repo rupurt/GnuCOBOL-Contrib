@@ -1964,7 +1964,6 @@ tools/flightlog/Changelog -text
 tools/flightlog/Copying.pdf -text
 tools/flightlog/Documentation_License.pdf -text
 tools/flightlog/README -text
-tools/flightlog/README.1ST -text
 tools/flightlog/UPDATE -text
 tools/flightlog/afldconv1.cbl -text
 tools/flightlog/flightlog.cbl -text
