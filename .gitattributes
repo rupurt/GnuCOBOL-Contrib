@@ -2392,16 +2392,11 @@ tools/pipEdit/Makefile -text
 tools/pipEdit/README -text
 tools/pipEdit/c eol=lf
 tools/pipEdit/doc/README.TXT -text
-tools/pipEdit/doc/pipEdit_User_Guide.aux -text
-tools/pipEdit/doc/pipEdit_User_Guide.dvi -text svneol=unset#application/octet-stream
-tools/pipEdit/doc/pipEdit_User_Guide.log -text
 tools/pipEdit/doc/pipEdit_User_Guide.pdf -text
 tools/pipEdit/doc/pipEdit_User_Guide.tex -text
-tools/pipEdit/doc/pipEdit_User_Guide.toc -text
 tools/pipEdit/doc/pipedittex.sh -text
 tools/pipEdit/doc/t -text
 tools/pipEdit/doc/v -text
-tools/pipEdit/doc/xxx -text
 tools/pipEdit/hello.cob -text
 tools/pipEdit/hello.par -text
 tools/pipEdit/macros/c -text
