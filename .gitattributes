@@ -2233,6 +2233,11 @@ tools/htm2cob/examples/samples/0029_ck_save_data/0029_ck_save_data_2_cob.html -t
 tools/htm2cob/examples/samples/0029_ck_save_data/0029_ck_save_data_2_param.cpy -text
 tools/htm2cob/examples/samples/0029_ck_save_data/0029_ck_save_data_test.html -text
 tools/htm2cob/examples/samples/0029_ck_save_data/Makefile -text
+tools/htm2cob/examples/samples/0029_ck_save_data/screenshots/0029_ck_save_data_1_fill_data.jpg -text
+tools/htm2cob/examples/samples/0029_ck_save_data/screenshots/0029_ck_save_data_1_try_1.jpg -text
+tools/htm2cob/examples/samples/0029_ck_save_data/screenshots/0029_ck_save_data_1_try_2.jpg -text
+tools/htm2cob/examples/samples/0029_ck_save_data/screenshots/0029_ck_save_data_2.jpg -text
+tools/htm2cob/examples/samples/0029_ck_save_data/screenshots/0029_ck_save_data_test.jpg -text
 tools/htm2cob/examples/samples/0030_ck_param/0030_ck_param_1_cob.html -text
 tools/htm2cob/examples/samples/0030_ck_param/0030_ck_param_1_param.cpy -text
 tools/htm2cob/examples/samples/0030_ck_param/0030_ck_param_2_cob.html -text
