@@ -2600,6 +2600,7 @@ tools/pipEdit/macros/hello.cob.4mac -text
 tools/pipEdit/macros/hello.cob.bak -text
 tools/pipEdit/macros/hello.par -text
 tools/pipEdit/macros/macro_comp.c -text
+tools/pipEdit/macros/macro_cs.c -text
 tools/pipEdit/macros/macros.lst -text
 tools/pipEdit/macros/t -text
 tools/pipEdit/macros/v -text
