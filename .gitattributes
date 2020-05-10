@@ -1384,6 +1384,7 @@ tools/cobjapi/SWING/examples_simple/flowlayout.cob -text
 tools/cobjapi/SWING/examples_simple/flowsimple.cob -text
 tools/cobjapi/SWING/examples_simple/focuslistener.cob -text
 tools/cobjapi/SWING/examples_simple/font.cob -text
+tools/cobjapi/SWING/examples_simple/formattedtextfield.cob -text
 tools/cobjapi/SWING/examples_simple/frame.cob -text
 tools/cobjapi/SWING/examples_simple/graphic.cob -text
 tools/cobjapi/SWING/examples_simple/graphicbutton.cob -text
@@ -1433,6 +1434,7 @@ tools/cobjapi/SWING/examples_simple/screenshots/flowlayout.jpg -text svneol=unse
 tools/cobjapi/SWING/examples_simple/screenshots/flowsimple.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/SWING/examples_simple/screenshots/focuslistener.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/SWING/examples_simple/screenshots/font.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/formattedtextfield.jpg -text
 tools/cobjapi/SWING/examples_simple/screenshots/frame.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/SWING/examples_simple/screenshots/graphic.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/SWING/examples_simple/screenshots/graphicbutton.jpg -text svneol=unset#image/jpeg
@@ -1551,6 +1553,7 @@ tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/Japi2CheckMenuItem.
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/Japi2Choice.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/Japi2DebugWindow.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/Japi2Dialog.html -text
+tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/Japi2FormattedTextField.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/Japi2Frame.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/Japi2GraphicButton.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/Japi2GraphicLabel.html -text
@@ -1587,6 +1590,7 @@ tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/class-use/Japi2Chec
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/class-use/Japi2Choice.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/class-use/Japi2DebugWindow.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/class-use/Japi2Dialog.html -text
+tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/class-use/Japi2FormattedTextField.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/class-use/Japi2Frame.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/class-use/Japi2GraphicButton.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/class-use/Japi2GraphicLabel.html -text
@@ -1733,6 +1737,7 @@ tools/cobjapi/SWING/src_java/src/de/japi/components/Japi2CheckMenuItem.java -tex
 tools/cobjapi/SWING/src_java/src/de/japi/components/Japi2Choice.java -text
 tools/cobjapi/SWING/src_java/src/de/japi/components/Japi2DebugWindow.java -text
 tools/cobjapi/SWING/src_java/src/de/japi/components/Japi2Dialog.java -text
+tools/cobjapi/SWING/src_java/src/de/japi/components/Japi2FormattedTextField.java -text
 tools/cobjapi/SWING/src_java/src/de/japi/components/Japi2Frame.java -text
 tools/cobjapi/SWING/src_java/src/de/japi/components/Japi2GraphicButton.java -text
 tools/cobjapi/SWING/src_java/src/de/japi/components/Japi2GraphicLabel.java -text
