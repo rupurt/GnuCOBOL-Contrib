@@ -1480,9 +1480,9 @@ tools/cobjapi/SWING/examples_simple/window.cob -text
 tools/cobjapi/SWING/examples_simple/windowlistener.cob -text
 tools/cobjapi/SWING/src_c/win_mingw_compile_src_c.bat -text
 tools/cobjapi/SWING/src_c/win_msvs_compile_src_c.bat -text
+tools/cobjapi/SWING/src_cobol/CobjapiConstants.cpy -text
+tools/cobjapi/SWING/src_cobol/CobjapiFunctions.cpy -text
 tools/cobjapi/SWING/src_cobol/cobjapi.cob -text
-tools/cobjapi/SWING/src_cobol/cobjapi.cpy -text
-tools/cobjapi/SWING/src_cobol/cobjapifn.cpy -text
 tools/cobjapi/SWING/src_cobol/win_mingw_compile_src_cobol.bat -text
 tools/cobjapi/SWING/src_cobol/win_msvs_compile_src_cobol.bat -text
 tools/cobjapi/SWING/src_java/JAPI.jar -text
