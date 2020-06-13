@@ -1039,6 +1039,7 @@ tools/TUI-TOOLS/GC97KEYCODEGC.CPY -text
 tools/TUI-TOOLS/GC98KEYCODE.CPY -text
 tools/TUI-TOOLS/GC99BANNER.COB -text
 tools/TUI-TOOLS/GC99COPYGEN.COB -text
+tools/TUI-TOOLS/GC99MOUSEDEMO.COB -text
 tools/TUI-TOOLS/GC99SCREENGEN.COB -text
 tools/TUI-TOOLS/README -text
 tools/cgi4cobol/install.sh -text
