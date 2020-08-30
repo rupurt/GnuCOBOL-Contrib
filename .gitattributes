@@ -99,6 +99,8 @@ samples/DBsample/DB2/example1/LNSQLMSG.cpy -text
 samples/DBsample/DB2/example1/cygwin_compile1.sh -text
 samples/DBsample/DB2/example1/cygwin_run_DB2TEST1.sh -text
 samples/DBsample/DB2/example1/db2_precompile1.sql -text
+samples/DBsample/DB2/example1/win_mingw_compile1.cmd -text
+samples/DBsample/DB2/example1/win_mingw_run_DB2TEST1.cmd -text
 samples/DBsample/DB2/example2/DB2MOD2.sqb -text
 samples/DBsample/DB2/example2/DB2SQLMSG.cob -text
 samples/DBsample/DB2/example2/DB2TEST2.cob -text
@@ -107,6 +109,8 @@ samples/DBsample/DB2/example2/LNSQLMSG.cpy -text
 samples/DBsample/DB2/example2/cygwin_compile2.sh -text
 samples/DBsample/DB2/example2/cygwin_run_DB2TEST2.sh -text
 samples/DBsample/DB2/example2/db2_precompile2.sql -text
+samples/DBsample/DB2/example2/win_mingw_compile2.cmd -text
+samples/DBsample/DB2/example2/win_mingw_run_DB2TEST2.cmd -text
 samples/DBsample/DB2/example3/DB2MOD3.sqb -text
 samples/DBsample/DB2/example3/DB2SQLMSG.cob -text
 samples/DBsample/DB2/example3/DB2TEST3.cob -text
@@ -115,6 +119,8 @@ samples/DBsample/DB2/example3/LNSQLMSG.cpy -text
 samples/DBsample/DB2/example3/cygwin_compile3.sh -text
 samples/DBsample/DB2/example3/cygwin_run_DB2TEST3.sh -text
 samples/DBsample/DB2/example3/db2_precompile3.sql -text
+samples/DBsample/DB2/example3/win_mingw_compile3.cmd -text
+samples/DBsample/DB2/example3/win_mingw_run_DB2TEST3.cmd -text
 samples/DBsample/DB2/example4/DB2MOD4.sqb -text
 samples/DBsample/DB2/example4/DB2SQLMSG.cob -text
 samples/DBsample/DB2/example4/DB2TEST4.cob -text
@@ -123,6 +129,8 @@ samples/DBsample/DB2/example4/LNSQLMSG.cpy -text
 samples/DBsample/DB2/example4/cygwin_compile4.sh -text
 samples/DBsample/DB2/example4/cygwin_run_DB2TEST4.sh -text
 samples/DBsample/DB2/example4/db2_precompile4.sql -text
+samples/DBsample/DB2/example4/win_mingw_compile4.cmd -text
+samples/DBsample/DB2/example4/win_mingw_run_DB2TEST4.cmd -text
 samples/DBsample/DB2/example5/DB2MOD5.sqb -text
 samples/DBsample/DB2/example5/DB2SQLMSG.cob -text
 samples/DBsample/DB2/example5/DB2TEST5.cob -text
@@ -131,6 +139,8 @@ samples/DBsample/DB2/example5/LNSQLMSG.cpy -text
 samples/DBsample/DB2/example5/cygwin_compile5.sh -text
 samples/DBsample/DB2/example5/cygwin_run_DB2TEST5.sh -text
 samples/DBsample/DB2/example5/db2_precompile5.sql -text
+samples/DBsample/DB2/example5/win_mingw_compile5.cmd -text
+samples/DBsample/DB2/example5/win_mingw_run_DB2TEST5.cmd -text
 samples/DBsample/DB2/example6/DB2MOD6.sqb -text
 samples/DBsample/DB2/example6/DB2SQLMSG.cob -text
 samples/DBsample/DB2/example6/DB2TEST6.cob -text
@@ -139,6 +149,8 @@ samples/DBsample/DB2/example6/LNSQLMSG.cpy -text
 samples/DBsample/DB2/example6/cygwin_compile6.sh -text
 samples/DBsample/DB2/example6/cygwin_run_DB2TEST6.sh -text
 samples/DBsample/DB2/example6/db2_precompile6.sql -text
+samples/DBsample/DB2/example6/win_mingw_compile6.cmd -text
+samples/DBsample/DB2/example6/win_mingw_run_DB2TEST6.cmd -text
 samples/DBsample/DB2/example7/DB2MOD7.sqb -text
 samples/DBsample/DB2/example7/DB2SQLMSG.cob -text
 samples/DBsample/DB2/example7/DB2TEST7.cob -text
@@ -147,6 +159,8 @@ samples/DBsample/DB2/example7/LNSQLMSG.cpy -text
 samples/DBsample/DB2/example7/cygwin_compile7.sh -text
 samples/DBsample/DB2/example7/cygwin_run_DB2TEST7.sh -text
 samples/DBsample/DB2/example7/db2_precompile7.sql -text
+samples/DBsample/DB2/example7/win_mingw_compile7.cmd -text
+samples/DBsample/DB2/example7/win_mingw_run_DB2TEST7.cmd -text
 samples/DBsample/DB2/readme.txt -text
 samples/DBsample/DB2/screenshots/example1_1.jpg -text
 samples/DBsample/DB2/screenshots/example1_2.jpg -text
