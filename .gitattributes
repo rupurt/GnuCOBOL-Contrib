@@ -1441,6 +1441,8 @@ tools/cobjapi/SWING/examples_simple/images/open.gif -text
 tools/cobjapi/SWING/examples_simple/images/paste.gif -text
 tools/cobjapi/SWING/examples_simple/images/save.gif -text
 tools/cobjapi/SWING/examples_simple/insets.cob -text
+tools/cobjapi/SWING/examples_simple/internalframe1.cob -text
+tools/cobjapi/SWING/examples_simple/internalframe2.cob -text
 tools/cobjapi/SWING/examples_simple/keylistener.cob -text
 tools/cobjapi/SWING/examples_simple/label.cob -text
 tools/cobjapi/SWING/examples_simple/lines.cob -text
@@ -1484,6 +1486,8 @@ tools/cobjapi/SWING/examples_simple/screenshots/graphiclabel.jpg -text svneol=un
 tools/cobjapi/SWING/examples_simple/screenshots/gridlayout.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/SWING/examples_simple/screenshots/image.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/SWING/examples_simple/screenshots/insets.jpg -text svneol=unset#image/jpeg
+tools/cobjapi/SWING/examples_simple/screenshots/internalframe1.jpg -text
+tools/cobjapi/SWING/examples_simple/screenshots/internalframe2.jpg -text
 tools/cobjapi/SWING/examples_simple/screenshots/keylistener.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/SWING/examples_simple/screenshots/label.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/SWING/examples_simple/screenshots/lines.jpg -text svneol=unset#image/jpeg
@@ -1603,6 +1607,7 @@ tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/Japi2Frame.html -te
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/Japi2GraphicButton.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/Japi2GraphicLabel.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/Japi2Image.html -text
+tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/Japi2InternalFrame.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/Japi2Label.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/Japi2Led.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/Japi2List.html -text
@@ -1624,6 +1629,7 @@ tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/Japi2Slider.html -t
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/Japi2TabbedPane.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/Japi2TextArea.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/Japi2TextField.html -text
+tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/Japi2Tree.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/Japi2Window.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/class-use/AbstractDrawable.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/class-use/AbstractJapi2ValueComponent.html -text
@@ -1641,6 +1647,7 @@ tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/class-use/Japi2Fram
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/class-use/Japi2GraphicButton.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/class-use/Japi2GraphicLabel.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/class-use/Japi2Image.html -text
+tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/class-use/Japi2InternalFrame.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/class-use/Japi2Label.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/class-use/Japi2Led.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/class-use/Japi2List.html -text
@@ -1662,6 +1669,7 @@ tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/class-use/Japi2Slid
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/class-use/Japi2TabbedPane.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/class-use/Japi2TextArea.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/class-use/Japi2TextField.html -text
+tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/class-use/Japi2Tree.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/class-use/Japi2Window.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/layout/Japi2FixLayout.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/layout/Japi2GridLayout.html -text
@@ -1789,6 +1797,7 @@ tools/cobjapi/SWING/src_java/src/de/japi/components/Japi2Frame.java -text
 tools/cobjapi/SWING/src_java/src/de/japi/components/Japi2GraphicButton.java -text
 tools/cobjapi/SWING/src_java/src/de/japi/components/Japi2GraphicLabel.java -text
 tools/cobjapi/SWING/src_java/src/de/japi/components/Japi2Image.java -text
+tools/cobjapi/SWING/src_java/src/de/japi/components/Japi2InternalFrame.java -text
 tools/cobjapi/SWING/src_java/src/de/japi/components/Japi2Label.java -text
 tools/cobjapi/SWING/src_java/src/de/japi/components/Japi2Led.java -text
 tools/cobjapi/SWING/src_java/src/de/japi/components/Japi2List.java -text
@@ -1809,6 +1818,7 @@ tools/cobjapi/SWING/src_java/src/de/japi/components/Japi2Slider.java -text
 tools/cobjapi/SWING/src_java/src/de/japi/components/Japi2TabbedPane.java -text
 tools/cobjapi/SWING/src_java/src/de/japi/components/Japi2TextArea.java -text
 tools/cobjapi/SWING/src_java/src/de/japi/components/Japi2TextField.java -text
+tools/cobjapi/SWING/src_java/src/de/japi/components/Japi2Tree.java -text
 tools/cobjapi/SWING/src_java/src/de/japi/components/Japi2Window.java -text
 tools/cobjapi/SWING/src_java/src/de/japi/components/layout/Japi2FixLayout.java -text
 tools/cobjapi/SWING/src_java/src/de/japi/components/layout/Japi2GridLayout.java -text
