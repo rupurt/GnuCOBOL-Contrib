@@ -556,6 +556,7 @@ tools/GCSORT/gccsort_gentestcase/src/TSTCHSORTL3.cbl -text
 tools/GCSORT/gccsort_gentestcase/src/TSTCHSORTX.cbl -text
 tools/GCSORT/gccsort_gentestcase/take/filegen.LS.prm -text
 tools/GCSORT/gccsort_gentestcase/take/filegen.sq.prm -text
+tools/GCSORT/gcshare.h -text
 tools/GCSORT/gcsort.c -text
 tools/GCSORT/gcsort.h -text
 tools/GCSORT/gcsorthelp.c -text
@@ -575,6 +576,10 @@ tools/GCSORT/outrec.h -text
 tools/GCSORT/parser.c -text
 tools/GCSORT/parser.h -text
 tools/GCSORT/parser.y -text
+tools/GCSORT/parser/gcsort_parser_genWin.bat -text
+tools/GCSORT/parser/gcsort_parser_genWin.sh -text
+tools/GCSORT/parser/parser.y -text
+tools/GCSORT/parser/scanner.l -text
 tools/GCSORT/scanner.c -text
 tools/GCSORT/scanner.h -text
 tools/GCSORT/scanner.l -text
