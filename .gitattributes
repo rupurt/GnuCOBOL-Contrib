@@ -1347,6 +1347,15 @@ tools/cobjapi/SWING/examples/imageviewer/imageviewer.cob -text
 tools/cobjapi/SWING/examples/imageviewer/screenshots/imageviewer.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/SWING/examples/imageviewer/win_mingw_compile_imageviewer.bat -text
 tools/cobjapi/SWING/examples/imageviewer/win_msvs_compile_imageviewer.bat -text
+tools/cobjapi/SWING/examples/linearfunction/10functionsfloat.cob -text
+tools/cobjapi/SWING/examples/linearfunction/LEGGIMI_Linux.txt -text
+tools/cobjapi/SWING/examples/linearfunction/LEGGIMI_Windows.txt -text
+tools/cobjapi/SWING/examples/linearfunction/Makefile -text
+tools/cobjapi/SWING/examples/linearfunction/assi-cartesiani.jpg -text
+tools/cobjapi/SWING/examples/linearfunction/readme.txt -text
+tools/cobjapi/SWING/examples/linearfunction/screenshots/screen-demo.png -text
+tools/cobjapi/SWING/examples/linearfunction/win_mingw_compile_linearfunction.bat -text
+tools/cobjapi/SWING/examples/linearfunction/win_msvs_compile_linearfunction.bat -text
 tools/cobjapi/SWING/examples/mandelbrot/Makefile -text
 tools/cobjapi/SWING/examples/mandelbrot/mandelbrot1.cob -text
 tools/cobjapi/SWING/examples/mandelbrot/mandelbrot2.cob -text
