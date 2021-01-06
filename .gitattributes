@@ -2027,7 +2027,6 @@ tools/cobxref/Copying.pdf -text
 tools/cobxref/Documentation_license.pdf -text
 tools/cobxref/README -text
 tools/cobxref/TODO -text
-tools/cobxref/cobxref-2.02.03.zip -text
 tools/cobxref/cobxref.cbl -text
 tools/cobxref/cobxref.pdf -text
 tools/cobxref/comp-cobxref.sh eol=lf
