@@ -575,14 +575,12 @@ tools/GCSORT/outrec.c -text
 tools/GCSORT/outrec.h -text
 tools/GCSORT/parser.c -text
 tools/GCSORT/parser.h -text
-tools/GCSORT/parser.y -text
 tools/GCSORT/parser/gcsort_parser_genWin.bat -text
 tools/GCSORT/parser/gcsort_parser_genWin.sh -text
 tools/GCSORT/parser/parser.y -text
 tools/GCSORT/parser/scanner.l -text
 tools/GCSORT/scanner.c -text
 tools/GCSORT/scanner.h -text
-tools/GCSORT/scanner.l -text
 tools/GCSORT/sortfield.c -text
 tools/GCSORT/sortfield.h -text
 tools/GCSORT/sumfield.c -text
