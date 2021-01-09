@@ -633,11 +633,15 @@ tools/GCSORT/tests/filesin/inpempty03.txt -text
 tools/GCSORT/tests/pgm_naming_convention.txt -text
 tools/GCSORT/tests/script/compile.bat -text
 tools/GCSORT/tests/script/compile.sh -text
+tools/GCSORT/tests/script/compile_mingw.bat -text
 tools/GCSORT/tests/script/compile_single.bat -text
 tools/GCSORT/tests/script/compile_single.sh -text
 tools/GCSORT/tests/src/diffile.cbl -text
 tools/GCSORT/tests/src/diffile2.cbl -text
 tools/GCSORT/tests/src/diffile3.cbl -text
+tools/GCSORT/tests/src/diffile4.cbl -text
+tools/GCSORT/tests/src/gcsysop.c -text
+tools/GCSORT/tests/src/gctestgetop.cbl -text
 tools/GCSORT/tests/src/gctestrun.cbl -text
 tools/GCSORT/tests/src/gctestrun1.cbl -text
 tools/GCSORT/tests/src/gctestrun2.cbl -text
