@@ -631,11 +631,18 @@ tools/GCSORT/tests/filesin/inpempty01.txt -text
 tools/GCSORT/tests/filesin/inpempty02.txt -text
 tools/GCSORT/tests/filesin/inpempty03.txt -text
 tools/GCSORT/tests/pgm_naming_convention.txt -text
+tools/GCSORT/tests/script/compbigfile001.sh -text
 tools/GCSORT/tests/script/compile.bat -text
 tools/GCSORT/tests/script/compile.sh -text
 tools/GCSORT/tests/script/compile_mingw.bat -text
 tools/GCSORT/tests/script/compile_single.bat -text
 tools/GCSORT/tests/script/compile_single.sh -text
+tools/GCSORT/tests/script/genbigfile01.bat -text
+tools/GCSORT/tests/script/genbigfile01.sh -text
+tools/GCSORT/tests/script/runbigfile001.sh -text
+tools/GCSORT/tests/script/srtbigfile001.sh -text
+tools/GCSORT/tests/src/bifi01.cbl -text
+tools/GCSORT/tests/src/cnvfile.cbl -text
 tools/GCSORT/tests/src/diffile.cbl -text
 tools/GCSORT/tests/src/diffile2.cbl -text
 tools/GCSORT/tests/src/diffile3.cbl -text
@@ -649,6 +656,7 @@ tools/GCSORT/tests/src/gctestrun3.cbl -text
 tools/GCSORT/tests/src/gctestrun4.cbl -text
 tools/GCSORT/tests/src/gctestrun5.cbl -text
 tools/GCSORT/tests/src/gctestsetup.cbl -text
+tools/GCSORT/tests/src/genbigfile.cbl -text
 tools/GCSORT/tests/src/genfile.cbl -text
 tools/GCSORT/tests/src/ioixpa.cbl -text
 tools/GCSORT/tests/src/iosqbi01.cbl -text
@@ -678,6 +686,7 @@ tools/GCSORT/tests/src/musesqf02a.cbl -text
 tools/GCSORT/tests/src/musesqf02b.cbl -text
 tools/GCSORT/tests/src/musesqf03a.cbl -text
 tools/GCSORT/tests/src/musesqf03b.cbl -text
+tools/GCSORT/tests/src/sbig001.cbl -text
 tools/GCSORT/tests/src/sfrmsqf17b.cbl -text
 tools/GCSORT/tests/src/sfrmsqf18b.cbl -text
 tools/GCSORT/tests/src/sincsqf04b.cbl -text
