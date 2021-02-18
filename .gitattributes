@@ -459,8 +459,8 @@ tools/CobolSQLite3/Test-1.cob -text
 tools/CobolSQLite3/Test-2.cob -text
 tools/CobolSQLite3/Test-3.cob -text
 tools/CobolSQLite3/ToDo -text
-tools/CobolSQLite3/genhtml -text
 tools/CobolSQLite3/html4css1.css -text
+tools/CobolSQLite3/makefile -text
 tools/CobolSQLite3/rwmcug.css -text
 tools/GCSORT/AUTHORS -text
 tools/GCSORT/COPYING -text
