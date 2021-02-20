@@ -1108,6 +1108,7 @@ tools/cgi4cobol/tutorial/cstring.cbl eol=lf
 tools/cgi4cobol/tutorial/readme.md eol=lf
 tools/changeformat/COPYING -text
 tools/changeformat/README -text
+tools/changeformat/changeformat-f.cbl -text
 tools/changeformat/changeformat.cbl -text
 tools/changeformat/compileall -text
 tools/cobjapi/AWT/doc/manual.pdf -text
