@@ -998,6 +998,7 @@ tools/JC-SQL-Precompiler/prtschema2.param -text
 tools/JC-SQL-Precompiler/prtschema2.scb -text
 tools/JC-SQL-Precompiler/test1.cbl -text
 tools/TUI-TOOLS/GC00COLORS.CPY -text
+tools/TUI-TOOLS/GC00TT-MANUAL-V02-20210308.odt -text
 tools/TUI-TOOLS/GC01BOX-SCREENSHOTS.pdf -text svneol=unset#unset
 tools/TUI-TOOLS/GC01BOX.COB -text
 tools/TUI-TOOLS/GC01BOX.CPY -text
