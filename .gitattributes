@@ -961,6 +961,7 @@ tools/GCSORT/utils.h -text
 tools/GCic/FileStat-Msgs.cpy -text
 tools/GCic/OpenCOBOL-1.1-06FEB2009-OCic.pdf -text
 tools/GCic/const-set-1.cpy -text
+tools/GCic/gcic.cbl -text
 tools/JC-SQL-Precompiler/ACAS/ACASDB.sql -text
 tools/JC-SQL-Precompiler/ACAS/acas011.cbl -text
 tools/JC-SQL-Precompiler/ACAS/fhlogger.cbl -text
