@@ -1743,6 +1743,7 @@ tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/listeners/Japi2Acti
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/listeners/Japi2AdjustmentListener.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/listeners/Japi2ComponentListener.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/listeners/Japi2FocusListener.html -text
+tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/listeners/Japi2InternalFrameListener.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/listeners/Japi2ItemListener.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/listeners/Japi2KeyListener.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/listeners/Japi2MouseListener.html -text
@@ -1754,6 +1755,7 @@ tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/listeners/class-use
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/listeners/class-use/Japi2AdjustmentListener.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/listeners/class-use/Japi2ComponentListener.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/listeners/class-use/Japi2FocusListener.html -text
+tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/listeners/class-use/Japi2InternalFrameListener.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/listeners/class-use/Japi2ItemListener.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/listeners/class-use/Japi2KeyListener.html -text
 tools/cobjapi/SWING/src_java/dist/javadoc/de/japi/components/listeners/class-use/Japi2MouseListener.html -text
@@ -1885,6 +1887,7 @@ tools/cobjapi/SWING/src_java/src/de/japi/components/listeners/Japi2ActionListene
 tools/cobjapi/SWING/src_java/src/de/japi/components/listeners/Japi2AdjustmentListener.java -text
 tools/cobjapi/SWING/src_java/src/de/japi/components/listeners/Japi2ComponentListener.java -text
 tools/cobjapi/SWING/src_java/src/de/japi/components/listeners/Japi2FocusListener.java -text
+tools/cobjapi/SWING/src_java/src/de/japi/components/listeners/Japi2InternalFrameListener.java -text
 tools/cobjapi/SWING/src_java/src/de/japi/components/listeners/Japi2ItemListener.java -text
 tools/cobjapi/SWING/src_java/src/de/japi/components/listeners/Japi2KeyListener.java -text
 tools/cobjapi/SWING/src_java/src/de/japi/components/listeners/Japi2MouseListener.java -text
