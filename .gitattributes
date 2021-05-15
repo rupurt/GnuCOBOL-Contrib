@@ -1474,6 +1474,7 @@ tools/cobjapi/SWING/examples_simple/dialog.cob -text
 tools/cobjapi/SWING/examples_simple/dialogmodal.cob -text
 tools/cobjapi/SWING/examples_simple/filedialog.cob -text
 tools/cobjapi/SWING/examples_simple/flowlayout.cob -text
+tools/cobjapi/SWING/examples_simple/flowlayout1.cob -text
 tools/cobjapi/SWING/examples_simple/flowsimple.cob -text
 tools/cobjapi/SWING/examples_simple/focuslistener.cob -text
 tools/cobjapi/SWING/examples_simple/font.cob -text
