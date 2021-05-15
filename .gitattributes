@@ -1352,6 +1352,7 @@ tools/cobjapi/AWT/src_java/danger.gif -text
 tools/cobjapi/AWT/src_java/question.gif -text
 tools/cobjapi/AWT/src_java/win_compile_src_java.bat -text
 tools/cobjapi/COPYING -text
+tools/cobjapi/SWING/doc/Japi-install-02.pdf -text
 tools/cobjapi/SWING/examples/colorpicker/Makefile -text
 tools/cobjapi/SWING/examples/colorpicker/colorpicker.cob -text
 tools/cobjapi/SWING/examples/colorpicker/screenshots/colorpicker.jpg -text
