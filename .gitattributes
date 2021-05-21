@@ -506,8 +506,12 @@ tools/GCSORT/build_windows/vc14/gcsort.vcxproj.filters -text
 tools/GCSORT/build_windows/vc14/gcsort.vcxproj.user -text
 tools/GCSORT/condfield.c -text
 tools/GCSORT/condfield.h -text
+tools/GCSORT/copyfile.c -text
+tools/GCSORT/copyfile.h -text
 tools/GCSORT/doc/GCSORT1_0_V01.odt -text
 tools/GCSORT/doc/GCSORT1_0_V01.pdf -text
+tools/GCSORT/exitroutines.c -text
+tools/GCSORT/exitroutines.h -text
 tools/GCSORT/fieldvalue.c -text
 tools/GCSORT/fieldvalue.h -text
 tools/GCSORT/file.c -text
@@ -576,12 +580,6 @@ tools/GCSORT/outrec.h -text
 tools/GCSORT/parser.c -text
 tools/GCSORT/parser.h -text
 tools/GCSORT/parser.y -text
-tools/GCSORT/parser/gcsort_parser_genWin.bat -text
-tools/GCSORT/parser/gcsort_parser_genWin.sh -text
-tools/GCSORT/parser/parser.y -text
-tools/GCSORT/parser/save/parser.y -text
-tools/GCSORT/parser/save/scanner.l -text
-tools/GCSORT/parser/scanner.l -text
 tools/GCSORT/scanner.c -text
 tools/GCSORT/scanner.h -text
 tools/GCSORT/scanner.l -text
