@@ -1,9 +1,17 @@
 at_test_win/wintest/classes
 at_test_win/wintest/compile.*
+esql/*stamp*
 esql/Win32
+esql/aclocal.m4
+esql/autom4te.cache
 esql/build_windows/*.suo
 esql/build_windows/UpgradeLog.XML
 esql/build_windows/_UpgradeReport_Files
+esql/config.*
+esql/configure
+esql/esqlOC/esqlOC
+esql/gnu*cobol*
+esql/libtool
 esql/x64
 samples/*.c
 samples/*.c.*
