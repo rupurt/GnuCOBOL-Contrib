@@ -1,4 +1,5 @@
 * text=auto !eol
+/README.md -text
 at_test_win/1c.sed -text
 at_test_win/2c.sed -text
 at_test_win/COPYING -text
