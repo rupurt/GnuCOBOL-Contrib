@@ -2767,3 +2767,5 @@ tools/printcbl/Documentation_License.pdf -text
 tools/printcbl/README -text
 tools/printcbl/printcbl.cbl -text
 tools/printcbl/printcbl.pdf -text
+tools/reopen/DISPTEST.cob -text
+tools/reopen/REOPEN.c -text
