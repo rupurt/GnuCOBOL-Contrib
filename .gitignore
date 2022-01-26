@@ -257,3 +257,14 @@ tools/ocic-gui/*.userprefs
 tools/ocic-gui/OCiC-Mono/bin
 tools/ocic-gui/OCiC-Mono/obj
 tools/pipEdit/*.bin
+tools/reopen/*.dll*
+tools/reopen/*.err
+tools/reopen/*.exe*
+tools/reopen/*.o
+tools/reopen/*.obj
+tools/reopen/*.out
+tools/reopen/*.so
+tools/reopen/CONOUT*
+tools/reopen/DISPTEST
+tools/reopen/DISPTEST.c*
+tools/reopen/DISPTEST.i
