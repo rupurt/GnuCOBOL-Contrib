@@ -632,6 +632,8 @@ tools/GCSORT/tests/script/rundifffiledate.sh -text
 tools/GCSORT/tests/script/runtestdate.bat -text
 tools/GCSORT/tests/script/runtestdate.sh -text
 tools/GCSORT/tests/script/srtbigfile001.sh -text
+tools/GCSORT/tests/script/testjoin.bat -text
+tools/GCSORT/tests/script/testjoin.sh -text
 tools/GCSORT/tests/script/viewfiledate.bat -text
 tools/GCSORT/tests/script/viewfiledate.sh -text
 tools/GCSORT/tests/src/bifi01.cbl -text
