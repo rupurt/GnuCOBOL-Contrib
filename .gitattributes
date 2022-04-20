@@ -544,6 +544,8 @@ tools/GCSORT/inrec.c -text
 tools/GCSORT/inrec.h -text
 tools/GCSORT/job.c -text
 tools/GCSORT/job.h -text
+tools/GCSORT/join.c -text
+tools/GCSORT/join.h -text
 tools/GCSORT/keyidxrel.c -text
 tools/GCSORT/keyidxrel.h -text
 tools/GCSORT/libgcsort.h -text
