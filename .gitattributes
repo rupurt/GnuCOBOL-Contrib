@@ -997,6 +997,10 @@ tools/GCSORT/tests/testcase_exitroutine/CE35DATE.CBL -text
 tools/GCSORT/tests/testcase_exitroutine/TestCaseExitRoutine.txt -text
 tools/GCSORT/utils.c -text
 tools/GCSORT/utils.h -text
+tools/GCic/2.0/FileStat-Msgs.cpy -text
+tools/GCic/2.0/OpenCOBOL-1.1-06FEB2009-OCic.pdf -text
+tools/GCic/2.0/const-set-1.cpy -text
+tools/GCic/2.0/gcic.cbl -text
 tools/GCic/FileStat-Msgs.cpy -text
 tools/GCic/OpenCOBOL-1.1-06FEB2009-OCic.pdf -text
 tools/GCic/const-set-1.cpy -text
