@@ -527,6 +527,8 @@ tools/GCSORT/fieldvalue.c -text
 tools/GCSORT/fieldvalue.h -text
 tools/GCSORT/file.c -text
 tools/GCSORT/file.h -text
+tools/GCSORT/findreplace.c -text
+tools/GCSORT/findreplace.h -text
 tools/GCSORT/gccsort_gentestcase/COPYING -text
 tools/GCSORT/gccsort_gentestcase/ChangeLog -text
 tools/GCSORT/gccsort_gentestcase/INSTALL -text
@@ -680,6 +682,10 @@ tools/GCSORT/tests/src/diffile.cbl -text
 tools/GCSORT/tests/src/diffile2.cbl -text
 tools/GCSORT/tests/src/diffile3.cbl -text
 tools/GCSORT/tests/src/diffile4.cbl -text
+tools/GCSORT/tests/src/diffiletxt.cbl -text
+tools/GCSORT/tests/src/frsqt01.cbl -text
+tools/GCSORT/tests/src/frsqt02.cbl -text
+tools/GCSORT/tests/src/frsqt03.cbl -text
 tools/GCSORT/tests/src/gcsysop.c -text
 tools/GCSORT/tests/src/gctestgetop.cbl -text
 tools/GCSORT/tests/src/gctestrun.cbl -text
@@ -689,10 +695,12 @@ tools/GCSORT/tests/src/gctestrun3.cbl -text
 tools/GCSORT/tests/src/gctestrun4.cbl -text
 tools/GCSORT/tests/src/gctestrun5.cbl -text
 tools/GCSORT/tests/src/gctestrun6.cbl -text
+tools/GCSORT/tests/src/gctestrun7.cbl -text
 tools/GCSORT/tests/src/gctestset.cbl -text
 tools/GCSORT/tests/src/genbigfile.cbl -text
 tools/GCSORT/tests/src/genfile.cbl -text
 tools/GCSORT/tests/src/genfiledate.cbl -text
+tools/GCSORT/tests/src/iofrs01.cbl -text
 tools/GCSORT/tests/src/ioixpa.cbl -text
 tools/GCSORT/tests/src/iosqbi01.cbl -text
 tools/GCSORT/tests/src/iosqbi01c.cbl -text
@@ -713,6 +721,11 @@ tools/GCSORT/tests/src/iosqzd01.cbl -text
 tools/GCSORT/tests/src/iosqzd01c.cbl -text
 tools/GCSORT/tests/src/iosqzd03.cbl -text
 tools/GCSORT/tests/src/iosqzd03c.cbl -text
+tools/GCSORT/tests/src/jinn0001.cbl -text
+tools/GCSORT/tests/src/join0002.cbl -text
+tools/GCSORT/tests/src/join0003.cbl -text
+tools/GCSORT/tests/src/join0004.cbl -text
+tools/GCSORT/tests/src/joinsort01.cbl -text
 tools/GCSORT/tests/src/moutsqf10a.cbl -text
 tools/GCSORT/tests/src/moutsqf10b.cbl -text
 tools/GCSORT/tests/src/musesqf01a.cbl -text
