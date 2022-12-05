@@ -358,6 +358,7 @@ samples/eliza/eliza.cbl -text
 samples/eliza/eliza.lst -text
 samples/games/2048/2048-GAME.COB -text
 samples/games/biorhythms/bio.cbl -text
+samples/games/biorhythms/bio2.cbl -text
 samples/games/game-of-life/124p37-animation.gif -text
 samples/games/game-of-life/README.md -text
 samples/games/game-of-life/gol.cbl -text
@@ -2834,3 +2835,4 @@ tools/printcbl/printcbl.pdf -text
 tools/reopen/DISPTEST.cob -text
 tools/reopen/REOPEN.c -text
 tools/secondsbetweendatetime/secondsbetweendatetime.cbl -text
+tools/secondsbetweendatetime/secondsbetweendatetime2.cbl -text
