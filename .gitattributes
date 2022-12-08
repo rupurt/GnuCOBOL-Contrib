@@ -467,6 +467,8 @@ tools/CobolSQLite3/html4css1.css -text
 tools/CobolSQLite3/makefile -text
 tools/CobolSQLite3/rwmcug.css -text
 tools/Dump-Tools/cobdump.cbl -text
+tools/Dump-Tools/cobfdump/cobfdump.cbl -text
+tools/Dump-Tools/cobfdump/cobfdump.readme -text
 tools/Dump-Tools/dumphex.cbl -text
 tools/GCSORT/AUTHORS -text
 tools/GCSORT/COPYING -text
