@@ -1166,6 +1166,8 @@ tools/changeformat/README -text
 tools/changeformat/changeformat-f.cbl -text
 tools/changeformat/changeformat.cbl -text
 tools/changeformat/compileall -text
+tools/cobfdump/cobfdump.cbl -text
+tools/cobfdump/cobfdump.readme -text
 tools/cobjapi/AWT/doc/manual.pdf -text
 tools/cobjapi/AWT/doc/refeng.pdf -text
 tools/cobjapi/AWT/doc/refger.pdf -text
