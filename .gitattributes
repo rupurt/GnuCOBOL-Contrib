@@ -1,7 +1,5 @@
 * text=auto !eol
-/Desktop.ini -text
 /README.md -text
-/README.txt -text
 at_test_win/1c.sed -text
 at_test_win/2c.sed -text
 at_test_win/COPYING -text
@@ -12,25 +10,6 @@ at_test_win/wintest.properties -text
 at_test_win/wintest/comp.cmd -text
 at_test_win/wintest/src/org/fsf/gnucobol/TESTSUITE.java -text
 at_test_win/wintest_skip.properties -text
-conf/authz -text
-conf/hooks-env.tmpl -text
-conf/passwd -text
-conf/svnserve.conf -text
-db/current -text
-db/format -text
-db/fs-type -text
-db/fsfs.conf -text
-db/min-unpacked-rev -text
-db/rep-cache.db -text
-db/rep-cache.db-journal -text
-db/revprops/0/0 -text
-db/revprops/0/1 -text
-db/revs/0/0 -text
-db/revs/0/1 -text
-db/txn-current -text
-db/txn-current-lock -text
-db/uuid -text
-db/write-lock -text
 esql/AUTHORS -text
 esql/COPYING -text
 esql/COPYING.LESSER -text
@@ -85,16 +64,6 @@ esql/m4/progtest.m4 -text
 esql/ocsql/ChangeLog -text
 esql/ocsql/Makefile.am -text
 esql/ocsql/ocsql2.cpp -text
-/format -text
-hooks/post-commit.tmpl -text
-hooks/post-lock.tmpl -text
-hooks/post-revprop-change.tmpl -text
-hooks/post-unlock.tmpl -text
-hooks/pre-commit.tmpl -text
-hooks/pre-lock.tmpl -text
-hooks/pre-revprop-change.tmpl -text
-hooks/pre-unlock.tmpl -text
-hooks/start-commit.tmpl -text
 ipc/CBL_GC_SOCKET/COPYING.LESSER -text
 ipc/CBL_GC_SOCKET/README.txt -text
 ipc/CBL_GC_SOCKET/build.sh -text
@@ -108,8 +77,6 @@ ipc/CBL_GC_SOCKET/sample/client.cob -text
 ipc/CBL_GC_SOCKET/sample/server.cob -text
 ipc/CBL_GC_SOCKET/sample_multi/CLIENT.COB -text
 ipc/CBL_GC_SOCKET/sample_multi/MULTISRV.COB -text
-locks/db-logs.lock -text
-locks/db.lock -text
 samples/DBsample/DB2/SQLtable/db2_create_table.sh -text
 samples/DBsample/DB2/SQLtable/db2_create_table.sql -text
 samples/DBsample/DB2/SQLtable/db2_describe.sh -text
@@ -451,7 +418,6 @@ samples/worldcities/worldcities7.cbl -text
 samples/worldcities/worldcities7.sh -text
 samples/worldcities/worldcities8.cbl -text
 samples/worldcities/worldcities8.sh -text
-/svn.ico -text
 tools/CobolSQLite3/COPYING -text
 tools/CobolSQLite3/ChangeLog -text
 tools/CobolSQLite3/CobolSQLite3-CSR.cpy -text
