@@ -386,6 +386,11 @@ samples/socket/tcpipserver.cbl -text
 samples/week-day/README -text
 samples/week-day/week-day-85.cob -text
 samples/week-day/week-day.cob -text
+samples/win-beep/makefile -text
+samples/win-beep/readme.txt -text
+samples/win-beep/tstwinbeep.cob -text
+samples/win-beep/win_beep.c -text
+samples/win-beep/winbeep.cob -text
 samples/worldcities/COPYING -text
 samples/worldcities/Davenport.kml -text
 samples/worldcities/Detroit.kml -text
