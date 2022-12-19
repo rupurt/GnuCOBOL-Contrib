@@ -391,6 +391,11 @@ samples/win-beep/readme.txt -text
 samples/win-beep/tstwinbeep.cob -text
 samples/win-beep/win_beep.c -text
 samples/win-beep/winbeep.cob -text
+samples/win-sound/Linus-linux.wav -text
+samples/win-sound/makefile -text
+samples/win-sound/readme.txt -text
+samples/win-sound/tstwinsound.cob -text
+samples/win-sound/winsound.cob -text
 samples/worldcities/COPYING -text
 samples/worldcities/Davenport.kml -text
 samples/worldcities/Detroit.kml -text
