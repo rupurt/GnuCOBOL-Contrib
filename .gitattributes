@@ -388,6 +388,7 @@ samples/week-day/week-day-85.cob -text
 samples/week-day/week-day.cob -text
 samples/win-beep/makefile -text
 samples/win-beep/readme.txt -text
+samples/win-beep/tstwbeep.cob -text
 samples/win-beep/tstwinbeep.cob -text
 samples/win-beep/win_beep.c -text
 samples/win-beep/winbeep.cob -text
