@@ -396,6 +396,7 @@ samples/win-sound/Linus-linux.wav -text
 samples/win-sound/makefile -text
 samples/win-sound/readme.txt -text
 samples/win-sound/tstwinsound.cob -text
+samples/win-sound/tstwsound.cob -text
 samples/win-sound/win_sound.c -text
 samples/win-sound/winsound.cob -text
 samples/worldcities/COPYING -text
