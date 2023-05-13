@@ -1462,6 +1462,25 @@ tools/cobjapi/SWING/examples/drawables/images/twux.png -text
 tools/cobjapi/SWING/examples/drawables/screenshots/drawables.jpg -text
 tools/cobjapi/SWING/examples/drawables/win_mingw_compile_drawables.bat -text
 tools/cobjapi/SWING/examples/drawables/win_msvs_compile_drawables.bat -text
+tools/cobjapi/SWING/examples/focus/GnuCOBOL.png -text
+tools/cobjapi/SWING/examples/focus/Makefile -text
+tools/cobjapi/SWING/examples/focus/choose.png -text
+tools/cobjapi/SWING/examples/focus/delete-file.png -text
+tools/cobjapi/SWING/examples/focus/delete-record.png -text
+tools/cobjapi/SWING/examples/focus/focus.cob -text
+tools/cobjapi/SWING/examples/focus/input-data.png -text
+tools/cobjapi/SWING/examples/focus/modify-data.png -text
+tools/cobjapi/SWING/examples/focus/quit.png -text
+tools/cobjapi/SWING/examples/focus/readme.txt -text
+tools/cobjapi/SWING/examples/focus/screenshots/cinque.png -text
+tools/cobjapi/SWING/examples/focus/screenshots/due.png -text
+tools/cobjapi/SWING/examples/focus/screenshots/quattro.png -text
+tools/cobjapi/SWING/examples/focus/screenshots/sei.png -text
+tools/cobjapi/SWING/examples/focus/screenshots/tre.png -text
+tools/cobjapi/SWING/examples/focus/screenshots/uno.png -text
+tools/cobjapi/SWING/examples/focus/view-data.png -text
+tools/cobjapi/SWING/examples/focus/win_mingw_compile_focus.bat -text
+tools/cobjapi/SWING/examples/focus/win_msvs_compile_focus.bat -text
 tools/cobjapi/SWING/examples/imageviewer/imageviewer.cob -text
 tools/cobjapi/SWING/examples/imageviewer/screenshots/imageviewer.jpg -text svneol=unset#image/jpeg
 tools/cobjapi/SWING/examples/imageviewer/win_mingw_compile_imageviewer.bat -text
