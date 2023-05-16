@@ -1478,6 +1478,7 @@ tools/cobjapi/SWING/examples/focus/screenshots/quattro.png -text
 tools/cobjapi/SWING/examples/focus/screenshots/sei.png -text
 tools/cobjapi/SWING/examples/focus/screenshots/tre.png -text
 tools/cobjapi/SWING/examples/focus/screenshots/uno.png -text
+tools/cobjapi/SWING/examples/focus/sort-table.png -text
 tools/cobjapi/SWING/examples/focus/view-data.png -text
 tools/cobjapi/SWING/examples/focus/win_mingw_compile_focus.bat -text
 tools/cobjapi/SWING/examples/focus/win_msvs_compile_focus.bat -text
