@@ -649,6 +649,8 @@ tools/GCSORT/tests/pgm_naming_convention.txt -text
 tools/GCSORT/tests/script/compbigfile001.sh eol=lf
 tools/GCSORT/tests/script/compile.bat eol=crlf
 tools/GCSORT/tests/script/compile.sh eol=lf
+tools/GCSORT/tests/script/compile_ae.bat -text
+tools/GCSORT/tests/script/compile_ae.sh -text
 tools/GCSORT/tests/script/compile_date.bat eol=crlf
 tools/GCSORT/tests/script/compile_date.sh eol=lf
 tools/GCSORT/tests/script/compile_e.bat -text
@@ -790,6 +792,7 @@ tools/GCSORT/tests/src/susesqf16Eb.cbl -text
 tools/GCSORT/tests/src/susesqf16b.cbl -text
 tools/GCSORT/tests/src/viewfile.cbl -text
 tools/GCSORT/tests/src/viewfile2.cbl -text
+tools/GCSORT/tests/src/viewfileE.cbl -text
 tools/GCSORT/tests/src/viewfiledate.cbl -text
 tools/GCSORT/tests/src/viewfiledate2.cbl -text
 tools/GCSORT/tests/takefile/merge/musesqf01.prm -text
