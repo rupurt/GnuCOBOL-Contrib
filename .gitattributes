@@ -324,6 +324,7 @@ samples/eliza/README.txt -text
 samples/eliza/eliza.cbl -text
 samples/eliza/eliza.lst -text
 samples/games/2048/2048-GAME.COB -text
+samples/games/biorhythms/BioApril1865.jpg -text
 samples/games/biorhythms/ReadMe.txt -text
 samples/games/biorhythms/bio.cbl -text
 samples/games/biorhythms/bio2.cbl -text
