@@ -634,6 +634,7 @@ tools/GCSORT/tests/copy/ssrtsqf01.cpy -text
 tools/GCSORT/tests/copy/wkenvfield.cpy -text
 tools/GCSORT/tests/copy/wktotsum01.cpy -text
 tools/GCSORT/tests/files/inpjoin01.txt -text
+tools/GCSORT/tests/files/inpjoin02.txt -text
 tools/GCSORT/tests/filesin/DateInsert.txt -text
 tools/GCSORT/tests/filesin/FDATE_YYMM.txt -text
 tools/GCSORT/tests/filesin/FDate_Struct.txt -text
@@ -651,6 +652,7 @@ tools/GCSORT/tests/filesin/inpempty01.txt -text
 tools/GCSORT/tests/filesin/inpempty02.txt -text
 tools/GCSORT/tests/filesin/inpempty03.txt -text
 tools/GCSORT/tests/filesin/inpjoin01.txt -text
+tools/GCSORT/tests/filesin/inpjoin02.txt -text
 tools/GCSORT/tests/pgm_naming_convention.txt -text
 tools/GCSORT/tests/script/compbigfile001.sh eol=lf
 tools/GCSORT/tests/script/compile.bat eol=crlf
