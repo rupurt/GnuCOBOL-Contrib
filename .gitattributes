@@ -646,8 +646,6 @@ tools/GCSORT/tests/copy/soutsqf01.cpy -text
 tools/GCSORT/tests/copy/ssrtsqf01.cpy -text
 tools/GCSORT/tests/copy/wkenvfield.cpy -text
 tools/GCSORT/tests/copy/wktotsum01.cpy -text
-tools/GCSORT/tests/files/inpjoin01.txt -text
-tools/GCSORT/tests/files/inpjoin02.txt -text
 tools/GCSORT/tests/filesin/DateInsert.txt -text
 tools/GCSORT/tests/filesin/FDATE_YYMM.txt -text
 tools/GCSORT/tests/filesin/FDate_Struct.txt -text
