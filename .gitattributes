@@ -326,6 +326,12 @@ samples/cookie/COOKIE.cob -text
 samples/cookie/Makefile -text
 samples/cookie/readme.txt -text
 samples/cookie/screenshots/cookie-test_01.jpg -text
+samples/createTestDataFile/README.md -text
+samples/createTestDataFile/last.all.txt -text
+samples/createTestDataFile/newdedup.address.csv -text
+samples/createTestDataFile/testdatafile01.cbl -text
+samples/createTestDataFile/yobALL.txt -text
+samples/createTestDataFile/zip.city.state.csv -text
 samples/dasize/dasize.cob -text
 samples/dasize/readme.txt -text
 samples/eliza/README.txt -text
