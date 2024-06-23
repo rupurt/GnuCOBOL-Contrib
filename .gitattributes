@@ -817,10 +817,12 @@ tools/GCSORT/tests/script/viewfiledate.sh eol=lf
 tools/GCSORT/tests/src/bifi01.cbl -text
 tools/GCSORT/tests/src/checkfdate.cbl -text
 tools/GCSORT/tests/src/cnvfile.cbl -text
+tools/GCSORT/tests/src/cnvfile2.cbl -text
 tools/GCSORT/tests/src/diffidx.cbl -text
 tools/GCSORT/tests/src/diffile.cbl -text
 tools/GCSORT/tests/src/diffile2.cbl -text
 tools/GCSORT/tests/src/diffile2V.cbl -text
+tools/GCSORT/tests/src/diffile2txt.cbl -text
 tools/GCSORT/tests/src/diffile3.cbl -text
 tools/GCSORT/tests/src/diffile3E.cbl -text
 tools/GCSORT/tests/src/diffile4.cbl -text
@@ -888,9 +890,12 @@ tools/GCSORT/tests/src/musesqf02a.cbl -text
 tools/GCSORT/tests/src/musesqf02b.cbl -text
 tools/GCSORT/tests/src/musesqf03a.cbl -text
 tools/GCSORT/tests/src/musesqf03b.cbl -text
+tools/GCSORT/tests/src/readsqbi03.cbl -text
 tools/GCSORT/tests/src/sbig001.cbl -text
 tools/GCSORT/tests/src/sbig001V.cbl -text
 tools/GCSORT/tests/src/sbig002.cbl -text
+tools/GCSORT/tests/src/sbig002txt.cbl -text
+tools/GCSORT/tests/src/sbig003.cbl -text
 tools/GCSORT/tests/src/sfrmsqf17Eb.cbl -text
 tools/GCSORT/tests/src/sfrmsqf17b.cbl -text
 tools/GCSORT/tests/src/sfrmsqf18Eb.cbl -text
@@ -917,6 +922,7 @@ tools/GCSORT/tests/src/somisqf11b.cbl -text
 tools/GCSORT/tests/src/somisqf12Eb.cbl -text
 tools/GCSORT/tests/src/somisqf12b.cbl -text
 tools/GCSORT/tests/src/somisqf13Eb.cbl -text
+tools/GCSORT/tests/src/somisqf13EbX.cbl -text
 tools/GCSORT/tests/src/somisqf13b.cbl -text
 tools/GCSORT/tests/src/soutfsqf01b1.cbl -text
 tools/GCSORT/tests/src/soutfsqf01b2.cbl -text
