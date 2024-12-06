@@ -854,6 +854,7 @@ tools/GCSORT/tests/src/gctestrun5.cbl -text
 tools/GCSORT/tests/src/gctestrun6.cbl -text
 tools/GCSORT/tests/src/gctestrun7.cbl -text
 tools/GCSORT/tests/src/gctestrun8.cbl -text
+tools/GCSORT/tests/src/gctestrun9.cbl -text
 tools/GCSORT/tests/src/gctestset.cbl -text
 tools/GCSORT/tests/src/genbigfile.cbl -text
 tools/GCSORT/tests/src/genbigfileV.cbl -text
