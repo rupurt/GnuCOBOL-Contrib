@@ -423,6 +423,16 @@ samples/socket/messagesend.cbl -text
 samples/socket/subscriberfile.txt -text
 samples/socket/tcpipclient.cbl -text
 samples/socket/tcpipserver.cbl -text
+samples/system2/System2_src/CMakeLists.txt -text
+samples/system2/System2_src/LICENSE -text
+samples/system2/System2_src/README.md -text
+samples/system2/System2_src/System2.c -text
+samples/system2/System2_src/System2.h -text
+samples/system2/System2_src/main.c -text
+samples/system2/makefile -text
+samples/system2/readme.txt -text
+samples/system2/system2_cmd.c -text
+samples/system2/testsys2.cob -text
 samples/week-day/README -text
 samples/week-day/week-day-85.cob -text
 samples/week-day/week-day.cob -text
