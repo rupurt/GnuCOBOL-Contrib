@@ -252,10 +252,6 @@ tools/cobxref/*.pdb
 tools/cobxref/*.sbr
 tools/cobxref/*.so
 tools/cobxref/cobxref
-tools/ocic-gui/*.suo
-tools/ocic-gui/*.userprefs
-tools/ocic-gui/OCiC-Mono/bin
-tools/ocic-gui/OCiC-Mono/obj
 tools/pipEdit/*.bin
 tools/reopen/*.dll*
 tools/reopen/*.err
