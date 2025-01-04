@@ -1236,6 +1236,8 @@ tools/JC-SQL-Precompiler/Documentation_License.pdf -text
 tools/JC-SQL-Precompiler/MYSQL-PROCEDURES.CPY -text
 tools/JC-SQL-Precompiler/MYSQL-VARIABLES.CPY -text
 tools/JC-SQL-Precompiler/README -text
+tools/JC-SQL-Precompiler/README.1st -text
+tools/JC-SQL-Precompiler/README.SVN -text
 tools/JC-SQL-Precompiler/Variations/presql2M.cbl -text
 tools/JC-SQL-Precompiler/Variations/presql2M.param -text
 tools/JC-SQL-Precompiler/Variations/presql2o.cbl -text
@@ -1246,13 +1248,17 @@ tools/JC-SQL-Precompiler/Variations/prtschema2M.cbl -text
 tools/JC-SQL-Precompiler/Variations/prtschema2M.scb -text
 tools/JC-SQL-Precompiler/Variations/prtschema2o.cbl -text
 tools/JC-SQL-Precompiler/Variations/prtschema2o.scb -text
+tools/JC-SQL-Precompiler/bldcopy2.10.cbl -text
 tools/JC-SQL-Precompiler/bldcopy2.cbl -text
 tools/JC-SQL-Precompiler/bldcopy2.param -text
 tools/JC-SQL-Precompiler/mysql-procedures.cpy -text
 tools/JC-SQL-Precompiler/mysql-variables.cpy -text
 tools/JC-SQL-Precompiler/prei.scb -text
 tools/JC-SQL-Precompiler/preo.cbl -text
+tools/JC-SQL-Precompiler/presql2-230-free.cbl -text
+tools/JC-SQL-Precompiler/presql2-230.cbl -text
 tools/JC-SQL-Precompiler/presql2.cbl -text
+tools/JC-SQL-Precompiler/presql2.odt -text
 tools/JC-SQL-Precompiler/presql2.param -text
 tools/JC-SQL-Precompiler/presql2.pdf -text
 tools/JC-SQL-Precompiler/prtschema2.cbl -text
