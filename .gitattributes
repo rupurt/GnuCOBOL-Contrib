@@ -1211,7 +1211,6 @@ tools/GCSORT/tests/testcase_exitroutine/CE35DATE.CBL -text
 tools/GCSORT/tests/testcase_exitroutine/TestCaseExitRoutine.txt -text
 tools/GCSORT/utils.c -text
 tools/GCSORT/utils.h -text
-tools/GCic/2.0/gcic-readme.html -text
 tools/GCic/FileStat-Msgs.cpy -text
 tools/GCic/OpenCOBOL-1.1-06FEB2009-OCic.pdf -text
 tools/GCic/The[!!-~]GnuCOBOL[!!-~]Interactive[!!-~]Compiler[!!-~](GCic).pdf -text
