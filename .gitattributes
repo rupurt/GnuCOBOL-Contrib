@@ -64,6 +64,7 @@ esql/m4/progtest.m4 -text
 esql/ocsql/ChangeLog -text
 esql/ocsql/Makefile.am -text
 esql/ocsql/ocsql2.cpp -text
+esql/ocsql/ocsql390.cpp eol=lf
 ipc/CBL_GC_SOCKET/COPYING.LESSER -text
 ipc/CBL_GC_SOCKET/README.txt -text
 ipc/CBL_GC_SOCKET/build.sh -text
