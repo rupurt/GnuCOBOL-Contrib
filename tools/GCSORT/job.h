@@ -34,7 +34,11 @@
 	/* #define GCThread __declspec( thread ) */
 #else
 	#include <limits.h>
-	#include <sys/io.h>
+	#ifdef __APPLE__
+      #include <sys/uio.h>
+    #else
+      #include <sys/io.h>
+    #endif
 	#include <time.h>
 	#include <fcntl.h>
 	#define _strtoll   strtoll

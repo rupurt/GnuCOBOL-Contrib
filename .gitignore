@@ -268,3 +268,4 @@ tools/reopen/CONOUT*
 tools/reopen/DISPTEST
 tools/reopen/DISPTEST.c*
 tools/reopen/DISPTEST.i
+.idea/

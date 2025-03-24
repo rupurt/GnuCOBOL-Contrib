@@ -25,7 +25,7 @@
 #include <sys/stat.h>
 #include <math.h>
 #include <limits.h>
-#include <malloc.h>
+/* #include <malloc.h> */
 #include <time.h>
 #include "libgcsort.h"
 #include <string.h>

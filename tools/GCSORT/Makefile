@@ -3,9 +3,9 @@ MKDIR=mkdir -p
 INSTALL=cp
 BISON=bison
 FLEX=flex
-CC=gcc -std=gnu99 -pthread -D_FILE_OFFSET_BITS="64" -c -o
-CCFLAGS= -fkeep-inline-functions
-LD=gcc -o
+CC=/usr/bin/clang
+LD=/usr/bin/clang
+CFLAGS=-std=gnu99 -pthread -D_FILE_OFFSET_BITS=64
 LDFLAGS= -O3
 LIBS=-L${exec_prefix}/lib -L/usr/local/lib/ -lcob -lm -lpthread
 OUTDIR=tests/bin
@@ -69,14 +69,14 @@ Release:all
 
 $(TARGET): $(OBJS)
 	@echo ' Generate gcsort'
-		$(LD) $(TARGET) $(LDFLAGS) $(OBJS) $(LIBS) $(DEBUGFLAGS)
+		$(LD) -o $(TARGET) $(LDFLAGS) $(OBJS) $(LIBS) $(DEBUGFLAGS)
 	@echo ' Copy gcsort in tests environment'
 		$(MKDIR)   $(OUTDIR)
 		$(INSTALL) $(TARGET) $(OUTDIR)
 
 
 %.o: %.c
-	$(CC) $@ $< $(CCFLAGS) $(DEBUGFLAGS)
+	$(CC) $(CFLAGS) $(DEBUGFLAGS) -c -o $@ $<
 
 ##
 parser.c parser.h: parser.y

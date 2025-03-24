@@ -32,7 +32,11 @@
 	#define _strtoll    _strtoi64
 #else
 	#include <limits.h>
-	#include <sys/io.h>
+	#ifdef __APPLE__
+      #include <sys/uio.h>
+    #else
+      #include <sys/io.h>
+    #endif
 	#include <time.h>
 	#include <fcntl.h>
 	#define _strtoll   strtoll

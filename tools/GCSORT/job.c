@@ -20,7 +20,7 @@
 */
 #define _GNU_SOURCE
 #include <sys/stat.h>
-#include <malloc.h>
+/* #include <malloc.h> */
 #include <time.h>
 #include <ctype.h>
 

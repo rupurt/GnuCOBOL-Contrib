@@ -33,7 +33,11 @@
 	#include <sys\stat.h>
 #else
 	#include <limits.h>
-	#include <sys/io.h>
+	#ifdef __APPLE__
+      #include <sys/uio.h>
+    #else
+      #include <sys/io.h>
+    #endif
 	#include <sys/stat.h>
 	#include <time.h>
 	#include <fcntl.h>
