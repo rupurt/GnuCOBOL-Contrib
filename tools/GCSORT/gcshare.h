@@ -52,6 +52,9 @@
 		#endif
 		extern int gCreateMutex;
 #if defined(_THREAD_LINUX_ENV)
+  #ifdef __APPLE__
+    #include <pthread.h>
+  #endif
 		extern pthread_mutex_t job_thread_mutex;
 #else
 		extern HANDLE ghMutexJob;
