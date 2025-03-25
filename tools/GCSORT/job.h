@@ -378,6 +378,8 @@ INLINE int job_compare_rek(struct job_t* job, const void *first, const void *sec
 
 #if	defined(_MSC_VER) || defined(__MINGW32__) || defined(__MINGW64__)
 	 INLINE  int job_compare_qsort(void* jobparam, const void* first, const void* second);
+#elif defined(__APPLE__) || defined(__MACH__)
+     INLINE  int job_compare_qsort(void* jobparam, const void* first, const void* second);
 #else
 	 INLINE  int job_compare_qsort(const void* first, const void* second, void* jobparam);
 #endif

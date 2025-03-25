@@ -3461,11 +3461,21 @@ INLINE2  int job_sort_data(struct job_t* job)
 	if (job->sortField!=NULL) {
 		/* s.m. 20240302 qsort(job->buffertSort, (size_t)job->recordNumber, job->nLenKeys + SIZESRTBUFF, job_compare_qsort);  */   /* check record position   */
 		/* s.m. 20240302 */
-#if	defined(_MSC_VER) || defined(__MINGW32__) || defined(__MINGW64__)
-		qsort_s(job->buffertSort, (size_t)job->recordNumber, job->nLenKeys + SIZESRTBUFF, &job_compare_qsort, job);
+#if defined(_MSC_VER) || defined(__MINGW32__) || defined(__MINGW64__)
+        qsort_s(job->buffertSort, (size_t)job->recordNumber, job->nLenKeys + SIZESRTBUFF, &job_compare_qsort, job);
+#elif defined(__APPLE__) || defined(__MACH__)
+qsort_r(job->buffertSort,
+        (size_t)job->recordNumber,
+        job->nLenKeys + SIZESRTBUFF,
+        (void*)job,
+        job_compare_qsort);
 #else
-		qsort_r(job->buffertSort, (size_t)job->recordNumber, job->nLenKeys + SIZESRTBUFF, job_compare_qsort, (void*)job);
-#endif  
+qsort_r(job->buffertSort,
+        (size_t)job->recordNumber,
+        job->nLenKeys + SIZESRTBUFF,
+        job_compare_qsort,
+        (void*)job);
+#endif
 	}
 /* #if	!defined(_MSC_VER) && !defined(__MINGW32__) && !defined(__MINGW64__)    */
 	for (int k=0;k< job->g_idx_max;k++) {
@@ -5103,6 +5113,8 @@ INLINE int job_compare_rek(struct job_t* job, const void *first, const void *sec
 
 #if	defined(_MSC_VER) || defined(__MINGW32__) || defined(__MINGW64__)
 	INLINE  int job_compare_qsort(void* jobparam, const void* first, const void* second)
+#elif defined(__APPLE__) || defined(__MACH__)
+    INLINE int job_compare_qsort(void* jobparam, const void* first, const void* second)
 #else
 	INLINE2 int job_compare_qsort(const void* first, const void* second, void* jobparam )  
 #endif
