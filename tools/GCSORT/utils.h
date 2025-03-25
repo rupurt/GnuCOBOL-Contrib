@@ -71,6 +71,9 @@
 	#define _stricmp strcasecmp
 	#define strnicmp strncasecmp
 	#define _strdup  strdup
+#ifdef __APPLE__
+  #define stat64 stat
+#endif
 	#define _struct_stat64  stat64  
 	#define stat_file stat64
 #else
